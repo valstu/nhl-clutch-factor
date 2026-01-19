@@ -9,8 +9,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Clutch Factor - NHL Weighted Points",
-  description: "NHL point rankings weighted by game situation - not all points are created equal",
+  title: "Clutch Puck - NHL Weighted Point Rankings",
+  description: "Not all points are created equal. See which players score when it matters most, and who pads stats in garbage time.",
 };
 
 export default function RootLayout({

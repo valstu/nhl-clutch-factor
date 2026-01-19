@@ -90,14 +90,14 @@ export default function Home() {
         <header className="mb-8 border-b border-border pb-6">
           <div className="flex items-baseline gap-3">
             <h1 className="text-4xl font-bold text-primary glow-amber tracking-tight">
-              CLUTCH FACTOR
+              CLUTCH PUCK
             </h1>
             <span className="text-xs text-muted-foreground uppercase tracking-widest">
-              v1.0
+              2025-26
             </span>
           </div>
-          <p className="text-muted-foreground mt-1 text-sm tracking-wide">
-            NHL Weighted Point Rankings // 2025-26 Season
+          <p className="text-muted-foreground mt-2 text-sm max-w-xl">
+            Not all points are created equal. We weight goals by game situation to reveal who scores when it matters — and who pads stats in garbage time.
           </p>
           <div className="flex gap-6 mt-3 text-xs text-muted-foreground font-medium tracking-wider uppercase">
             <span>[{data?.meta.gameCount} games]</span>
