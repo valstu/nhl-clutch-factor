@@ -4,7 +4,10 @@
   "type": "module",
   "scripts": {
     "fetch": "tsx src/fetch.ts",
-    "calculate": "tsx src/calculate.ts"
+    "calculate": "tsx src/calculate.ts",
+    "export": "tsx src/export-json.ts",
+    "dev": "npm run export && npm run dev --prefix web",
+    "build": "npm run export && npm run build --prefix web"
   },
   "dependencies": {
     "better-sqlite3": "^11.7.0"

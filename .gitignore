@@ -1,5 +1,8 @@
 node_modules/
-data/*.db
 output/
 *.log
 .DS_Store
+
+# Next.js
+web/.next/
+web/node_modules/

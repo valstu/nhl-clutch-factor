@@ -1,0 +1,36 @@
+name: Update NHL Data
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Runs daily at 12:00 UTC
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install root dependencies
+        run: npm install
+
+      - name: Install web dependencies
+        run: cd web && npm install
+
+      - name: Fetch latest NHL data
+        run: npm run fetch
+
+      - name: Export to JSON
+        run: npm run export
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/nhl.db web/public/data.json
+          git diff --staged --quiet || git commit -m "Update NHL data $(date +%Y-%m-%d)"
+          git push
