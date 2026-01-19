@@ -112,10 +112,10 @@ export default function Home() {
               Rankings
             </TabsTrigger>
             <TabsTrigger value="weights" className="data-[state=active]:bg-primary data-[state=active]:text-primary-foreground uppercase text-xs tracking-wider">
-              Weights
+              Adjust Weights
             </TabsTrigger>
             <TabsTrigger value="explanation" className="data-[state=active]:bg-primary data-[state=active]:text-primary-foreground uppercase text-xs tracking-wider">
-              System
+              How It Works
             </TabsTrigger>
           </TabsList>
 
