@@ -125,7 +125,6 @@ export function calculateAllStats(
 ): PlayerStats[] {
   const playerMap = new Map(players.map(p => [p.id, p]));
   const stats = new Map<number, {
-    games: Set<number>;
     goals: number;
     assists: number;
     weightedGoals: number;
@@ -135,7 +134,6 @@ export function calculateAllStats(
   const getOrCreate = (playerId: number) => {
     if (!stats.has(playerId)) {
       stats.set(playerId, {
-        games: new Set(),
         goals: 0,
         assists: 0,
         weightedGoals: 0,
@@ -151,14 +149,12 @@ export function calculateAllStats(
 
     // Scorer
     const scorer = getOrCreate(goal.scorerId);
-    scorer.games.add(goal.gameId);
     scorer.goals++;
     scorer.weightedGoals += detail.weight;
 
     // Primary assist
     if (goal.assist1Id) {
       const a1 = getOrCreate(goal.assist1Id);
-      a1.games.add(goal.gameId);
       a1.assists++;
       a1.weightedAssists += assistWeight;
     }
@@ -166,7 +162,6 @@ export function calculateAllStats(
     // Secondary assist
     if (goal.assist2Id) {
       const a2 = getOrCreate(goal.assist2Id);
-      a2.games.add(goal.gameId);
       a2.assists++;
       a2.weightedAssists += assistWeight * 0.85;
     }
@@ -184,7 +179,7 @@ export function calculateAllStats(
       name: player.name,
       team: player.team || '???',
       nationality: player.nationality || '???',
-      games: s.games.size,
+      games: player.gamesPlayed || 0,  // Use real GP from boxscore data
       goals: s.goals,
       assists: s.assists,
       points: s.goals + s.assists,

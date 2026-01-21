@@ -1,7 +1,7 @@
 import { writeFileSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
-import { db, initSchema, getAllGoals, getAllPlayers, getWeights, getGameCount } from './db.js';
+import { db, initSchema, getAllGoals, getAllPlayers, getWeights, getGameCount, getGamesPlayedByPlayer } from './db.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -12,6 +12,7 @@ const goals = getAllGoals();
 const players = getAllPlayers();
 const weights = Object.fromEntries(getWeights());
 const gameCount = getGameCount();
+const gamesPlayedMap = getGamesPlayedByPlayer();
 
 // Get games for date lookup
 const games = db.prepare('SELECT game_id, date, home_team, away_team FROM games').all() as {
@@ -37,6 +38,7 @@ const exportData = {
     name: p.name,
     team: p.team,
     nationality: p.nationality,
+    gamesPlayed: gamesPlayedMap.get(p.player_id) || 0,
   })),
   goals: goals.map(g => {
     const game = gamesMap[g.game_id];

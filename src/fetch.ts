@@ -1,5 +1,5 @@
-import { db, initSchema, getCompletedGameIds, insertGame, insertGoal, insertPlayer, getMissingPlayerIds, getPlayer as getPlayerFromDb } from './db.js';
-import { getSchedule, getPlayByPlay, getPlayer, parseGoals, type ScheduleGame } from './nhl-api.js';
+import { db, initSchema, getCompletedGameIds, insertGame, insertGoal, insertPlayer, getMissingPlayerIds, getPlayer as getPlayerFromDb, insertGamePlayersBatch, getGameIdsWithBoxscore, type GamePlayer } from './db.js';
+import { getSchedule, getPlayByPlay, getPlayer, parseGoals, getBoxscore, parseBoxscorePlayers, type ScheduleGame } from './nhl-api.js';
 
 // Current NHL season (2025-26)
 const SEASON_START = '2025-10-04';
@@ -72,6 +72,7 @@ async function main() {
 
   if (completedGames.length === 0) {
     console.log('No new games to process.');
+    await fetchMissingBoxscores();
     await fetchMissingPlayers();
     return;
   }
@@ -96,6 +97,17 @@ async function main() {
         away_score: game.awayTeam.score ?? 0,
         is_complete: 1,
       });
+
+      // Fetch boxscore for player participation
+      const boxscore = await getBoxscore(game.id);
+      const gamePlayers = parseBoxscorePlayers(boxscore);
+      insertGamePlayersBatch(gamePlayers.map(p => ({
+        game_id: game.id,
+        player_id: p.player_id,
+        team: p.team,
+        toi: p.toi,
+      })));
+      console.log(`  -> ${gamePlayers.length} players logged`);
 
       // Parse and insert goals
       const goals = parseGoals(pbp);
@@ -138,10 +150,49 @@ async function main() {
     }
   }
 
+  // Fetch missing boxscores (for backfill)
+  await fetchMissingBoxscores();
+
   // Fetch missing player info
   await fetchMissingPlayers();
 
   console.log('\nDone!');
+}
+
+async function fetchMissingBoxscores() {
+  const existingGameIds = getCompletedGameIds();
+  const gamesWithBoxscore = getGameIdsWithBoxscore();
+
+  const missingBoxscores = [...existingGameIds].filter(id => !gamesWithBoxscore.has(id));
+
+  if (missingBoxscores.length === 0) {
+    console.log('\nAll boxscores up to date.');
+    return;
+  }
+
+  console.log(`\nFetching boxscores for ${missingBoxscores.length} games...`);
+
+  let fetched = 0;
+  for (const gameId of missingBoxscores) {
+    fetched++;
+    process.stdout.write(`  [${fetched}/${missingBoxscores.length}] Game ${gameId}...`);
+
+    try {
+      const boxscore = await getBoxscore(gameId);
+      const gamePlayers = parseBoxscorePlayers(boxscore);
+      insertGamePlayersBatch(gamePlayers.map(p => ({
+        game_id: gameId,
+        player_id: p.player_id,
+        team: p.team,
+        toi: p.toi,
+      })));
+      console.log(` ${gamePlayers.length} players`);
+    } catch (err) {
+      console.log(` ERROR: ${err}`);
+    }
+
+    await new Promise(r => setTimeout(r, 100));
+  }
 }
 
 async function fetchMissingPlayers() {

@@ -58,6 +58,17 @@ export function initSchema() {
     CREATE INDEX IF NOT EXISTS idx_goals_scorer ON goals(scorer_id);
     CREATE INDEX IF NOT EXISTS idx_goals_assist1 ON goals(assist1_id);
     CREATE INDEX IF NOT EXISTS idx_goals_assist2 ON goals(assist2_id);
+
+    CREATE TABLE IF NOT EXISTS game_players (
+      game_id INTEGER NOT NULL,
+      player_id INTEGER NOT NULL,
+      team TEXT NOT NULL,
+      toi TEXT,
+      PRIMARY KEY (game_id, player_id),
+      FOREIGN KEY (game_id) REFERENCES games(game_id)
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_game_players_player ON game_players(player_id);
   `);
 
   // Insert default weights if not exist
@@ -181,4 +192,44 @@ export function getWeights(): Map<string, number> {
 
 export function getGameCount(): number {
   return (db.prepare('SELECT COUNT(*) as count FROM games WHERE is_complete = 1').get() as { count: number }).count;
+}
+
+export interface GamePlayer {
+  game_id: number;
+  player_id: number;
+  team: string;
+  toi: string | null;
+}
+
+export function insertGamePlayer(gp: GamePlayer) {
+  const stmt = db.prepare(`
+    INSERT OR IGNORE INTO game_players (game_id, player_id, team, toi)
+    VALUES (@game_id, @player_id, @team, @toi)
+  `);
+  stmt.run(gp);
+}
+
+export function insertGamePlayersBatch(players: GamePlayer[]) {
+  const stmt = db.prepare(`
+    INSERT OR IGNORE INTO game_players (game_id, player_id, team, toi)
+    VALUES (@game_id, @player_id, @team, @toi)
+  `);
+  const insertMany = db.transaction((items: GamePlayer[]) => {
+    for (const item of items) {
+      stmt.run(item);
+    }
+  });
+  insertMany(players);
+}
+
+export function getGamesPlayedByPlayer(): Map<number, number> {
+  const rows = db.prepare(`
+    SELECT player_id, COUNT(*) as gp FROM game_players GROUP BY player_id
+  `).all() as { player_id: number; gp: number }[];
+  return new Map(rows.map(r => [r.player_id, r.gp]));
+}
+
+export function getGameIdsWithBoxscore(): Set<number> {
+  const rows = db.prepare('SELECT DISTINCT game_id FROM game_players').all() as { game_id: number }[];
+  return new Set(rows.map(r => r.game_id));
 }

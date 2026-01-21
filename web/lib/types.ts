@@ -3,6 +3,7 @@ export interface Player {
   name: string;
   team: string | null;
   nationality: string | null;
+  gamesPlayed: number;
 }
 
 export interface Goal {

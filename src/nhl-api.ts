@@ -119,6 +119,66 @@ export async function getPlayer(playerId: number): Promise<PlayerLanding | null>
   }
 }
 
+// Boxscore types
+export interface BoxscorePlayer {
+  playerId: number;
+  name: { default: string };
+  toi: string;
+  position: string;
+}
+
+export interface BoxscoreResponse {
+  id: number;
+  homeTeam: { abbrev: string };
+  awayTeam: { abbrev: string };
+  playerByGameStats: {
+    homeTeam: {
+      forwards: BoxscorePlayer[];
+      defense: BoxscorePlayer[];
+      goalies: BoxscorePlayer[];
+    };
+    awayTeam: {
+      forwards: BoxscorePlayer[];
+      defense: BoxscorePlayer[];
+      goalies: BoxscorePlayer[];
+    };
+  };
+}
+
+export async function getBoxscore(gameId: number): Promise<BoxscoreResponse> {
+  const url = `${BASE_URL}/gamecenter/${gameId}/boxscore`;
+  const res = await fetchWithRetry(url);
+  return res.json() as Promise<BoxscoreResponse>;
+}
+
+export function parseBoxscorePlayers(boxscore: BoxscoreResponse): Array<{
+  player_id: number;
+  team: string;
+  toi: string | null;
+}> {
+  const players: ReturnType<typeof parseBoxscorePlayers> = [];
+
+  const homeTeam = boxscore.homeTeam.abbrev;
+  const awayTeam = boxscore.awayTeam.abbrev;
+
+  const homePlayers = boxscore.playerByGameStats?.homeTeam;
+  const awayPlayers = boxscore.playerByGameStats?.awayTeam;
+
+  if (homePlayers) {
+    for (const p of [...(homePlayers.forwards || []), ...(homePlayers.defense || []), ...(homePlayers.goalies || [])]) {
+      players.push({ player_id: p.playerId, team: homeTeam, toi: p.toi || null });
+    }
+  }
+
+  if (awayPlayers) {
+    for (const p of [...(awayPlayers.forwards || []), ...(awayPlayers.defense || []), ...(awayPlayers.goalies || [])]) {
+      players.push({ player_id: p.playerId, team: awayTeam, toi: p.toi || null });
+    }
+  }
+
+  return players;
+}
+
 // Parse goals from play-by-play
 export function parseGoals(pbp: PlayByPlayResponse): Array<{
   event_id: number;
