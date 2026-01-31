@@ -1,8 +1,8 @@
 {
   "meta": {
-    "exportedAt": "2026-01-30T12:09:34.012Z",
-    "gameCount": 856,
-    "goalCount": 5250,
+    "exportedAt": "2026-01-31T12:07:05.287Z",
+    "gameCount": 857,
+    "goalCount": 5256,
     "playerCount": 804
   },
   "weights": {
@@ -528,7 +528,7 @@
       "name": "Charlie Coyle",
       "team": "CBJ",
       "nationality": "USA",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8475752,
@@ -612,7 +612,7 @@
       "name": "Erik Gudbranson",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 10
+      "gamesPlayed": 11
     },
     {
       "id": 8475791,
@@ -794,7 +794,7 @@
       "name": "Boone Jenner",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 38
+      "gamesPlayed": 39
     },
     {
       "id": 8476434,
@@ -927,7 +927,7 @@
       "name": "Connor Murphy",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8476474,
@@ -1095,7 +1095,7 @@
       "name": "Teuvo Teravainen",
       "team": "CHI",
       "nationality": "FIN",
-      "gamesPlayed": 47
+      "gamesPlayed": 48
     },
     {
       "id": 8476883,
@@ -1130,7 +1130,7 @@
       "name": "Matt Grzelcyk",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8476892,
@@ -1193,7 +1193,7 @@
       "name": "Damon Severson",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 51
+      "gamesPlayed": 52
     },
     {
       "id": 8476925,
@@ -1382,7 +1382,7 @@
       "name": "Miles Wood",
       "team": "CBJ",
       "nationality": "USA",
-      "gamesPlayed": 33
+      "gamesPlayed": 34
     },
     {
       "id": 8477426,
@@ -1410,7 +1410,7 @@
       "name": "Andre Burakovsky",
       "team": "CHI",
       "nationality": "AUT",
-      "gamesPlayed": 48
+      "gamesPlayed": 49
     },
     {
       "id": 8477446,
@@ -1431,7 +1431,7 @@
       "name": "Jason Dickinson",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 40
+      "gamesPlayed": 41
     },
     {
       "id": 8477451,
@@ -1480,7 +1480,7 @@
       "name": "Tyler Bertuzzi",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 51
+      "gamesPlayed": 52
     },
     {
       "id": 8477488,
@@ -1522,7 +1522,7 @@
       "name": "Sean Monahan",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 48
+      "gamesPlayed": 49
     },
     {
       "id": 8477498,
@@ -1837,7 +1837,7 @@
       "name": "Ryan Donato",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8477989,
@@ -1872,7 +1872,7 @@
       "name": "Elvis Merzlikins",
       "team": "CBJ",
       "nationality": "LVA",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8478010,
@@ -1914,7 +1914,7 @@
       "name": "Sam Lafferty",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 18
+      "gamesPlayed": 19
     },
     {
       "id": 8478046,
@@ -2194,7 +2194,7 @@
       "name": "Zach Werenski",
       "team": "CBJ",
       "nationality": "USA",
-      "gamesPlayed": 48
+      "gamesPlayed": 49
     },
     {
       "id": 8478462,
@@ -2271,7 +2271,7 @@
       "name": "Ivan Provorov",
       "team": "CBJ",
       "nationality": "RUS",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8478507,
@@ -2446,7 +2446,7 @@
       "name": "Mason Marchment",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 39
+      "gamesPlayed": 40
     },
     {
       "id": 8479022,
@@ -2831,7 +2831,7 @@
       "name": "Mathieu Olivier",
       "team": "CBJ",
       "nationality": "USA",
-      "gamesPlayed": 39
+      "gamesPlayed": 40
     },
     {
       "id": 8479675,
@@ -3335,7 +3335,7 @@
       "name": "Isac Lundeström",
       "team": "CBJ",
       "nationality": "SWE",
-      "gamesPlayed": 38
+      "gamesPlayed": 39
     },
     {
       "id": 8480807,
@@ -3510,7 +3510,7 @@
       "name": "Kirill Marchenko",
       "team": "CBJ",
       "nationality": "RUS",
-      "gamesPlayed": 48
+      "gamesPlayed": 49
     },
     {
       "id": 8480947,
@@ -3657,7 +3657,7 @@
       "name": "Jake Christiansen",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 31
+      "gamesPlayed": 32
     },
     {
       "id": 8481167,
@@ -3713,7 +3713,7 @@
       "name": "Spencer Knight",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8481522,
@@ -3860,7 +3860,7 @@
       "name": "Alex Vlasic",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 53
+      "gamesPlayed": 54
     },
     {
       "id": 8481569,
@@ -3993,7 +3993,7 @@
       "name": "Ilya Mikheyev",
       "team": "CHI",
       "nationality": "RUS",
-      "gamesPlayed": 49
+      "gamesPlayed": 50
     },
     {
       "id": 8481641,
@@ -4042,7 +4042,7 @@
       "name": "Dmitri Voronkov",
       "team": "CBJ",
       "nationality": "RUS",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8481719,
@@ -4098,7 +4098,7 @@
       "name": "Louis Crevier",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 51
+      "gamesPlayed": 52
     },
     {
       "id": 8482055,
@@ -4406,7 +4406,7 @@
       "name": "Landon Slaggert",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 27
+      "gamesPlayed": 28
     },
     {
       "id": 8482175,
@@ -4420,7 +4420,7 @@
       "name": "Wyatt Kaiser",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8482177,
@@ -4567,7 +4567,7 @@
       "name": "Kent Johnson",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 51
+      "gamesPlayed": 52
     },
     {
       "id": 8482665,
@@ -4644,7 +4644,7 @@
       "name": "Cole Sillinger",
       "team": "CBJ",
       "nationality": "USA",
-      "gamesPlayed": 51
+      "gamesPlayed": 52
     },
     {
       "id": 8482713,
@@ -4917,7 +4917,7 @@
       "name": "Ryan Greene",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8483455,
@@ -4980,7 +4980,7 @@
       "name": "Denton Mateychuk",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 45
+      "gamesPlayed": 46
     },
     {
       "id": 8483487,
@@ -5008,7 +5008,7 @@
       "name": "Frank Nazar",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 38
+      "gamesPlayed": 39
     },
     {
       "id": 8483495,
@@ -5043,7 +5043,7 @@
       "name": "Sam Rinzel",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 28
+      "gamesPlayed": 29
     },
     {
       "id": 8483512,
@@ -5239,7 +5239,7 @@
       "name": "Connor Bedard",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 41
+      "gamesPlayed": 42
     },
     {
       "id": 8484145,
@@ -5295,7 +5295,7 @@
       "name": "Adam Fantilli",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8484168,
@@ -5337,7 +5337,7 @@
       "name": "Oliver Moore",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 42
+      "gamesPlayed": 43
     },
     {
       "id": 8484203,
@@ -105398,6 +105398,120 @@
       "gameWinner": false,
       "overtime": false,
       "scorerTeam": "SEA"
+    },
+    {
+      "id": 5405,
+      "gameId": 2025020858,
+      "date": "2026-01-30",
+      "homeTeam": "CHI",
+      "awayTeam": "CBJ",
+      "period": 1,
+      "time": "19:13",
+      "situation": "1541",
+      "scorerId": 8475745,
+      "assist1Id": 8478460,
+      "assist2Id": 8480893,
+      "homeScore": 0,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CBJ"
+    },
+    {
+      "id": 5406,
+      "gameId": 2025020858,
+      "date": "2026-01-30",
+      "homeTeam": "CHI",
+      "awayTeam": "CBJ",
+      "period": 1,
+      "time": "19:57",
+      "situation": "1551",
+      "scorerId": 8484144,
+      "assist1Id": 8481568,
+      "assist2Id": 8477479,
+      "homeScore": 1,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CHI"
+    },
+    {
+      "id": 5407,
+      "gameId": 2025020858,
+      "date": "2026-01-30",
+      "homeTeam": "CHI",
+      "awayTeam": "CBJ",
+      "period": 2,
+      "time": "01:23",
+      "situation": "1551",
+      "scorerId": 8475745,
+      "assist1Id": null,
+      "assist2Id": null,
+      "homeScore": 1,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CBJ"
+    },
+    {
+      "id": 5408,
+      "gameId": 2025020858,
+      "date": "2026-01-30",
+      "homeTeam": "CHI",
+      "awayTeam": "CBJ",
+      "period": 2,
+      "time": "06:47",
+      "situation": "1551",
+      "scorerId": 8479671,
+      "assist1Id": 8475745,
+      "assist2Id": 8478460,
+      "homeScore": 1,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "CBJ"
+    },
+    {
+      "id": 5409,
+      "gameId": 2025020858,
+      "date": "2026-01-30",
+      "homeTeam": "CHI",
+      "awayTeam": "CBJ",
+      "period": 2,
+      "time": "10:49",
+      "situation": "1551",
+      "scorerId": 8483493,
+      "assist1Id": 8484144,
+      "assist2Id": 8477479,
+      "homeScore": 2,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "CHI"
+    },
+    {
+      "id": 5410,
+      "gameId": 2025020858,
+      "date": "2026-01-30",
+      "homeTeam": "CHI",
+      "awayTeam": "CBJ",
+      "period": 3,
+      "time": "18:57",
+      "situation": "1560",
+      "scorerId": 8475745,
+      "assist1Id": 8482705,
+      "assist2Id": 8479671,
+      "homeScore": 2,
+      "awayScore": 4,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CBJ"
     }
   ]
 }
