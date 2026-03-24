@@ -1,8 +1,8 @@
 {
   "meta": {
-    "exportedAt": "2026-03-23T12:15:51.428Z",
-    "gameCount": 1118,
-    "goalCount": 6851,
+    "exportedAt": "2026-03-24T12:16:34.591Z",
+    "gameCount": 1119,
+    "goalCount": 6854,
     "playerCount": 837
   },
   "weights": {
@@ -108,7 +108,7 @@
       "name": "Claude Giroux",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8473533,
@@ -192,7 +192,7 @@
       "name": "Lars Eller",
       "team": "OTT",
       "nationality": "DNK",
-      "gamesPlayed": 55
+      "gamesPlayed": 56
     },
     {
       "id": 8474563,
@@ -773,7 +773,7 @@
       "name": "Vincent Trocheck",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 55
+      "gamesPlayed": 56
     },
     {
       "id": 8476392,
@@ -787,7 +787,7 @@
       "name": "Nick Cousins",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8476399,
@@ -906,7 +906,7 @@
       "name": "Mika Zibanejad",
       "team": "NYR",
       "nationality": "SWE",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8476460,
@@ -948,7 +948,7 @@
       "name": "J.T. Miller",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 56
+      "gamesPlayed": 57
     },
     {
       "id": 8476469,
@@ -1669,7 +1669,7 @@
       "name": "Conor Sheary",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 50
+      "gamesPlayed": 51
     },
     {
       "id": 8477845,
@@ -1914,7 +1914,7 @@
       "name": "Warren Foegele",
       "team": "LAK",
       "nationality": "CAN",
-      "gamesPlayed": 55
+      "gamesPlayed": 56
     },
     {
       "id": 8478007,
@@ -1949,7 +1949,7 @@
       "name": "Michael Amadio",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8478038,
@@ -2278,7 +2278,7 @@
       "name": "Thomas Chabot",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8478472,
@@ -2397,7 +2397,7 @@
       "name": "Will Borgen",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 63
+      "gamesPlayed": 64
     },
     {
       "id": 8478841,
@@ -2467,7 +2467,7 @@
       "name": "Vladislav Gavrikov",
       "team": "NYR",
       "nationality": "RUS",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8478891,
@@ -2593,7 +2593,7 @@
       "name": "Adam Fox",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 43
+      "gamesPlayed": 44
     },
     {
       "id": 8479324,
@@ -2740,7 +2740,7 @@
       "name": "Taylor Raddysh",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8479393,
@@ -3237,7 +3237,7 @@
       "name": "Fabian Zetterlund",
       "team": "OTT",
       "nationality": "SWE",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8480192,
@@ -3258,7 +3258,7 @@
       "name": "Drake Batherson",
       "team": "OTT",
       "nationality": "USA",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8480220,
@@ -3405,7 +3405,7 @@
       "name": "Brady Tkachuk",
       "team": "OTT",
       "nationality": "USA",
-      "gamesPlayed": 49
+      "gamesPlayed": 50
     },
     {
       "id": 8480802,
@@ -3846,7 +3846,7 @@
       "name": "Matthew Robertson",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 60
+      "gamesPlayed": 61
     },
     {
       "id": 8481527,
@@ -3860,7 +3860,7 @@
       "name": "Dylan Cozens",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8481532,
@@ -4014,7 +4014,7 @@
       "name": "Shane Pinto",
       "team": "OTT",
       "nationality": "USA",
-      "gamesPlayed": 59
+      "gamesPlayed": 60
     },
     {
       "id": 8481598,
@@ -4063,7 +4063,7 @@
       "name": "Jordan Spence",
       "team": "OTT",
       "nationality": "AUS",
-      "gamesPlayed": 60
+      "gamesPlayed": 61
     },
     {
       "id": 8481607,
@@ -4133,7 +4133,7 @@
       "name": "Juuso Parssinen",
       "team": "NYR",
       "nationality": "FIN",
-      "gamesPlayed": 19
+      "gamesPlayed": 20
     },
     {
       "id": 8481711,
@@ -4175,7 +4175,7 @@
       "name": "Adam Edstrom",
       "team": "NYR",
       "nationality": "SWE",
-      "gamesPlayed": 34
+      "gamesPlayed": 35
     },
     {
       "id": 8481732,
@@ -4196,7 +4196,7 @@
       "name": "Tye Kartye",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8481806,
@@ -4231,7 +4231,7 @@
       "name": "Braden Schneider",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8482074,
@@ -4294,7 +4294,7 @@
       "name": "Ridly Greig",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8482093,
@@ -4315,7 +4315,7 @@
       "name": "Tyler Kleven",
       "team": "OTT",
       "nationality": "USA",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8482097,
@@ -4357,7 +4357,7 @@
       "name": "Alexis Lafrenière",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8482110,
@@ -4385,7 +4385,7 @@
       "name": "Tim Stützle",
       "team": "OTT",
       "nationality": "DEU",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8482117,
@@ -4490,7 +4490,7 @@
       "name": "Will Cuylle",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8482159,
@@ -4574,7 +4574,7 @@
       "name": "Artem Zub",
       "team": "OTT",
       "nationality": "RUS",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8482259,
@@ -4952,7 +4952,7 @@
       "name": "Jaroslav Chmelar",
       "team": "NYR",
       "nationality": "CZE",
-      "gamesPlayed": 16
+      "gamesPlayed": 17
     },
     {
       "id": 8482896,
@@ -5561,7 +5561,7 @@
       "name": "Gabe Perreault",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 37
+      "gamesPlayed": 38
     },
     {
       "id": 8484221,
@@ -5638,7 +5638,7 @@
       "name": "Nikolas Matinpalo",
       "team": "OTT",
       "nationality": "FIN",
-      "gamesPlayed": 37
+      "gamesPlayed": 38
     },
     {
       "id": 8484386,
@@ -136048,6 +136048,63 @@
       "gameWinner": true,
       "overtime": true,
       "scorerTeam": "UTA"
+    },
+    {
+      "id": 7006,
+      "gameId": 2025021119,
+      "date": "2026-03-23",
+      "homeTeam": "NYR",
+      "awayTeam": "OTT",
+      "period": 1,
+      "time": "06:30",
+      "situation": "1541",
+      "scorerId": 8481596,
+      "assist1Id": 8473512,
+      "assist2Id": 8481606,
+      "homeScore": 0,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "OTT"
+    },
+    {
+      "id": 7007,
+      "gameId": 2025021119,
+      "date": "2026-03-23",
+      "homeTeam": "NYR",
+      "awayTeam": "OTT",
+      "period": 2,
+      "time": "06:46",
+      "situation": "1551",
+      "scorerId": 8477998,
+      "assist1Id": 8474189,
+      "assist2Id": null,
+      "homeScore": 0,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "OTT"
+    },
+    {
+      "id": 7008,
+      "gameId": 2025021119,
+      "date": "2026-03-23",
+      "homeTeam": "NYR",
+      "awayTeam": "OTT",
+      "period": 3,
+      "time": "07:03",
+      "situation": "1551",
+      "scorerId": 8477839,
+      "assist1Id": 8481789,
+      "assist2Id": 8481525,
+      "homeScore": 1,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "NYR"
     }
   ]
 }
