@@ -1,9 +1,9 @@
 {
   "meta": {
-    "exportedAt": "2026-03-31T12:18:48.650Z",
-    "gameCount": 1177,
-    "goalCount": 7230,
-    "playerCount": 851
+    "exportedAt": "2026-04-01T12:19:08.966Z",
+    "gameCount": 1187,
+    "goalCount": 7298,
+    "playerCount": 853
   },
   "weights": {
     "score_tie": 1.5,
@@ -31,28 +31,28 @@
       "name": "Corey Perry",
       "team": "LAK",
       "nationality": "CAN",
-      "gamesPlayed": 63
+      "gamesPlayed": 64
     },
     {
       "id": 8471214,
       "name": "Alex Ovechkin",
       "team": "WSH",
       "nationality": "RUS",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8471215,
       "name": "Evgeni Malkin",
       "team": "PIT",
       "nationality": "RUS",
-      "gamesPlayed": 50
+      "gamesPlayed": 51
     },
     {
       "id": 8471675,
       "name": "Sidney Crosby",
       "team": "PIT",
       "nationality": "CAN",
-      "gamesPlayed": 62
+      "gamesPlayed": 63
     },
     {
       "id": 8471685,
@@ -66,7 +66,7 @@
       "name": "Kris Letang",
       "team": "PIT",
       "nationality": "CAN",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8471734,
@@ -108,21 +108,21 @@
       "name": "Claude Giroux",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8473533,
       "name": "Jordan Staal",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8473604,
       "name": "Jonathan Toews",
       "team": "WPG",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8473986,
@@ -136,7 +136,7 @@
       "name": "Jamie Benn",
       "team": "DAL",
       "nationality": "CAN",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8474013,
@@ -150,7 +150,7 @@
       "name": "James van Riemsdyk",
       "team": "DET",
       "nationality": "USA",
-      "gamesPlayed": 63
+      "gamesPlayed": 64
     },
     {
       "id": 8474090,
@@ -164,21 +164,21 @@
       "name": "David Perron",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 56
+      "gamesPlayed": 57
     },
     {
       "id": 8474141,
       "name": "Patrick Kane",
       "team": "DET",
       "nationality": "USA",
-      "gamesPlayed": 58
+      "gamesPlayed": 59
     },
     {
       "id": 8474149,
       "name": "Evgenii Dadonov",
       "team": "NJD",
       "nationality": "RUS",
-      "gamesPlayed": 21
+      "gamesPlayed": 22
     },
     {
       "id": 8474150,
@@ -192,14 +192,14 @@
       "name": "Ryan McDonagh",
       "team": "TBL",
       "nationality": "USA",
-      "gamesPlayed": 40
+      "gamesPlayed": 41
     },
     {
       "id": 8474189,
       "name": "Lars Eller",
       "team": "OTT",
       "nationality": "DNK",
-      "gamesPlayed": 59
+      "gamesPlayed": 60
     },
     {
       "id": 8474563,
@@ -241,14 +241,14 @@
       "name": "Erik Karlsson",
       "team": "PIT",
       "nationality": "SWE",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8474586,
       "name": "Jordan Eberle",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8474590,
@@ -262,14 +262,14 @@
       "name": "Jacob Markstrom",
       "team": "NJD",
       "nationality": "SWE",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8474596,
       "name": "Jake Allen",
       "team": "NJD",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8474600,
@@ -290,7 +290,7 @@
       "name": "Adam Henrique",
       "team": "EDM",
       "nationality": "CAN",
-      "gamesPlayed": 57
+      "gamesPlayed": 58
     },
     {
       "id": 8474679,
@@ -346,7 +346,7 @@
       "name": "Matt Duchene",
       "team": "DAL",
       "nationality": "CAN",
-      "gamesPlayed": 49
+      "gamesPlayed": 50
     },
     {
       "id": 8475169,
@@ -360,7 +360,7 @@
       "name": "Brayden Schenn",
       "team": "STL",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8475171,
@@ -423,7 +423,7 @@
       "name": "Mattias Ekholm",
       "team": "EDM",
       "nationality": "SWE",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8475220,
@@ -437,7 +437,7 @@
       "name": "Casey Cizikas",
       "team": "NYI",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8475235,
@@ -451,7 +451,7 @@
       "name": "Ben Chiarot",
       "team": "DET",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8475287,
@@ -472,7 +472,7 @@
       "name": "Anders Lee",
       "team": "NYI",
       "nationality": "USA",
-      "gamesPlayed": 75
+      "gamesPlayed": 76
     },
     {
       "id": 8475324,
@@ -493,7 +493,7 @@
       "name": "Brenden Dillon",
       "team": "NJD",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8475462,
@@ -507,14 +507,14 @@
       "name": "Cam Talbot",
       "team": "DET",
       "nationality": "CAN",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8475683,
       "name": "Sergei Bobrovsky",
       "team": "FLA",
       "nationality": "RUS",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8475690,
@@ -549,7 +549,7 @@
       "name": "Jason Zucker",
       "team": "BUF",
       "nationality": "USA",
-      "gamesPlayed": 55
+      "gamesPlayed": 56
     },
     {
       "id": 8475726,
@@ -563,7 +563,7 @@
       "name": "Charlie Coyle",
       "team": "CBJ",
       "nationality": "USA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8475752,
@@ -577,7 +577,7 @@
       "name": "Justin Faulk",
       "team": "STL",
       "nationality": "USA",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8475754,
@@ -598,7 +598,7 @@
       "name": "Nick Bjugstad",
       "team": "STL",
       "nationality": "USA",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8475763,
@@ -626,7 +626,7 @@
       "name": "Jaden Schwartz",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 42
+      "gamesPlayed": 43
     },
     {
       "id": 8475784,
@@ -640,21 +640,21 @@
       "name": "Zach Hyman",
       "team": "EDM",
       "nationality": "CAN",
-      "gamesPlayed": 55
+      "gamesPlayed": 56
     },
     {
       "id": 8475790,
       "name": "Erik Gudbranson",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 29
+      "gamesPlayed": 30
     },
     {
       "id": 8475791,
       "name": "Taylor Hall",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8475794,
@@ -696,28 +696,28 @@
       "name": "Philipp Grubauer",
       "team": "SEA",
       "nationality": "DEU",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8475842,
       "name": "Sam Carrick",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8475848,
       "name": "Brendan Gallagher",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8475883,
       "name": "Frederik Andersen",
       "team": "CAR",
       "nationality": "DNK",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8475906,
@@ -738,14 +738,14 @@
       "name": "Colin Blackwell",
       "team": "DAL",
       "nationality": "USA",
-      "gamesPlayed": 63
+      "gamesPlayed": 64
     },
     {
       "id": 8476292,
       "name": "Ondrej Palat",
       "team": "NJD",
       "nationality": "CZE",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8476312,
@@ -759,42 +759,42 @@
       "name": "Dylan DeMelo",
       "team": "WPG",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8476372,
       "name": "Nick Seeler",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8476374,
       "name": "Sean Kuraly",
       "team": "BOS",
       "nationality": "USA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8476389,
       "name": "Vincent Trocheck",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 59
+      "gamesPlayed": 60
     },
     {
       "id": 8476392,
       "name": "Adam Lowry",
       "team": "WPG",
       "nationality": "USA",
-      "gamesPlayed": 61
+      "gamesPlayed": 62
     },
     {
       "id": 8476393,
       "name": "Nick Cousins",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8476399,
@@ -815,7 +815,7 @@
       "name": "Jean-Gabriel Pageau",
       "team": "NYI",
       "nationality": "CAN",
-      "gamesPlayed": 67
+      "gamesPlayed": 68
     },
     {
       "id": 8476422,
@@ -829,21 +829,21 @@
       "name": "Scott Mayfield",
       "team": "NYI",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8476432,
       "name": "Boone Jenner",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 59
+      "gamesPlayed": 60
     },
     {
       "id": 8476434,
       "name": "John Gibson",
       "team": "DET",
       "nationality": "USA",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8476438,
@@ -871,14 +871,14 @@
       "name": "Nikita Kucherov",
       "team": "TBL",
       "nationality": "RUS",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8476454,
       "name": "Ryan Nugent-Hopkins",
       "team": "EDM",
       "nationality": "CAN",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8476455,
@@ -899,7 +899,7 @@
       "name": "Adam Larsson",
       "team": "SEA",
       "nationality": "SWE",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8476458,
@@ -913,28 +913,28 @@
       "name": "Mika Zibanejad",
       "team": "NYR",
       "nationality": "SWE",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8476460,
       "name": "Mark Scheifele",
       "team": "WPG",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8476461,
       "name": "Sean Couturier",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8476462,
       "name": "Dougie Hamilton",
       "team": "NJD",
       "nationality": "CAN",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8476463,
@@ -948,14 +948,14 @@
       "name": "Jamie Oleksiak",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8476468,
       "name": "J.T. Miller",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 60
+      "gamesPlayed": 61
     },
     {
       "id": 8476469,
@@ -969,7 +969,7 @@
       "name": "Connor Murphy",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8476474,
@@ -983,7 +983,7 @@
       "name": "Phillip Danault",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 67
+      "gamesPlayed": 68
     },
     {
       "id": 8476480,
@@ -997,7 +997,7 @@
       "name": "Rickard Rakell",
       "team": "PIT",
       "nationality": "SWE",
-      "gamesPlayed": 53
+      "gamesPlayed": 54
     },
     {
       "id": 8476525,
@@ -1025,14 +1025,14 @@
       "name": "Luke Glendening",
       "team": "NJD",
       "nationality": "USA",
-      "gamesPlayed": 61
+      "gamesPlayed": 62
     },
     {
       "id": 8476826,
       "name": "Yanni Gourde",
       "team": "TBL",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8476853,
@@ -1046,7 +1046,7 @@
       "name": "Hampus Lindholm",
       "team": "BOS",
       "nationality": "SWE",
-      "gamesPlayed": 60
+      "gamesPlayed": 61
     },
     {
       "id": 8476856,
@@ -1088,7 +1088,7 @@
       "name": "Mark Jankowski",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 60
+      "gamesPlayed": 61
     },
     {
       "id": 8476874,
@@ -1102,14 +1102,14 @@
       "name": "Mike Matheson",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8476878,
       "name": "Zemgus Girgensons",
       "team": "TBL",
       "nationality": "LVA",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8476879,
@@ -1123,7 +1123,7 @@
       "name": "Tom Wilson",
       "team": "WSH",
       "nationality": "CAN",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8476881,
@@ -1137,14 +1137,14 @@
       "name": "Teuvo Teravainen",
       "team": "CHI",
       "nationality": "FIN",
-      "gamesPlayed": 67
+      "gamesPlayed": 68
     },
     {
       "id": 8476883,
       "name": "Andrei Vasilevskiy",
       "team": "TBL",
       "nationality": "RUS",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8476885,
@@ -1193,21 +1193,21 @@
       "name": "Esa Lindell",
       "team": "DAL",
       "nationality": "FIN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8476905,
       "name": "Chandler Stephenson",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8476906,
       "name": "Shayne Gostisbehere",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 47
+      "gamesPlayed": 48
     },
     {
       "id": 8476907,
@@ -1221,14 +1221,14 @@
       "name": "Adam Pelech",
       "team": "NYI",
       "nationality": "CAN",
-      "gamesPlayed": 75
+      "gamesPlayed": 76
     },
     {
       "id": 8476921,
       "name": "Jordan Martinook",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8476923,
@@ -1270,7 +1270,7 @@
       "name": "Jaccob Slavin",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 33
+      "gamesPlayed": 34
     },
     {
       "id": 8476967,
@@ -1284,28 +1284,28 @@
       "name": "Josh Anderson",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8476994,
       "name": "Vinnie Hinostroza",
       "team": "MIN",
       "nationality": "USA",
-      "gamesPlayed": 57
+      "gamesPlayed": 58
     },
     {
       "id": 8476999,
       "name": "Unknown (8476999)",
       "team": null,
       "nationality": null,
-      "gamesPlayed": 57
+      "gamesPlayed": 58
     },
     {
       "id": 8477015,
       "name": "Connor Brown",
       "team": "NJD",
       "nationality": "CAN",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8477018,
@@ -1340,7 +1340,7 @@
       "name": "Scott Sabourin",
       "team": "TBL",
       "nationality": "CAN",
-      "gamesPlayed": 21
+      "gamesPlayed": 22
     },
     {
       "id": 8477220,
@@ -1368,21 +1368,21 @@
       "name": "Connor Clifton",
       "team": "PIT",
       "nationality": "USA",
-      "gamesPlayed": 43
+      "gamesPlayed": 44
     },
     {
       "id": 8477369,
       "name": "Carson Soucy",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8477380,
       "name": "Jonny Brodzinski",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 48
+      "gamesPlayed": 49
     },
     {
       "id": 8477402,
@@ -1396,7 +1396,7 @@
       "name": "Jake Guentzel",
       "team": "TBL",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8477406,
@@ -1410,14 +1410,14 @@
       "name": "Anthony Duclair",
       "team": "NYI",
       "nationality": "CAN",
-      "gamesPlayed": 60
+      "gamesPlayed": 61
     },
     {
       "id": 8477409,
       "name": "Carter Verhaeghe",
       "team": "FLA",
       "nationality": "CAN",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8477416,
@@ -1431,21 +1431,21 @@
       "name": "Miles Wood",
       "team": "CBJ",
       "nationality": "USA",
-      "gamesPlayed": 46
+      "gamesPlayed": 47
     },
     {
       "id": 8477426,
       "name": "Nick Paul",
       "team": "TBL",
       "nationality": "CAN",
-      "gamesPlayed": 42
+      "gamesPlayed": 43
     },
     {
       "id": 8477429,
       "name": "Andrew Copp",
       "team": "DET",
       "nationality": "USA",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8477435,
@@ -1459,7 +1459,7 @@
       "name": "Andre Burakovsky",
       "team": "CHI",
       "nationality": "AUT",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8477446,
@@ -1480,7 +1480,7 @@
       "name": "Jason Dickinson",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 59
+      "gamesPlayed": 60
     },
     {
       "id": 8477451,
@@ -1494,14 +1494,14 @@
       "name": "Adam Erne",
       "team": "DAL",
       "nationality": "USA",
-      "gamesPlayed": 38
+      "gamesPlayed": 39
     },
     {
       "id": 8477456,
       "name": "J.T. Compher",
       "team": "DET",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8477463,
@@ -1522,14 +1522,14 @@
       "name": "William Carrier",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 62
+      "gamesPlayed": 63
     },
     {
       "id": 8477479,
       "name": "Tyler Bertuzzi",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8477488,
@@ -1557,42 +1557,42 @@
       "name": "Seth Jones",
       "team": "FLA",
       "nationality": "USA",
-      "gamesPlayed": 47
+      "gamesPlayed": 48
     },
     {
       "id": 8477496,
       "name": "Elias Lindholm",
       "team": "BOS",
       "nationality": "SWE",
-      "gamesPlayed": 61
+      "gamesPlayed": 62
     },
     {
       "id": 8477497,
       "name": "Sean Monahan",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8477498,
       "name": "Darnell Nurse",
       "team": "EDM",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8477499,
       "name": "Rasmus Ristolainen",
       "team": "PHI",
       "nationality": "FIN",
-      "gamesPlayed": 36
+      "gamesPlayed": 37
     },
     {
       "id": 8477500,
       "name": "Bo Horvat",
       "team": "NYI",
       "nationality": "CAN",
-      "gamesPlayed": 61
+      "gamesPlayed": 62
     },
     {
       "id": 8477501,
@@ -1613,7 +1613,7 @@
       "name": "Josh Morrissey",
       "team": "WPG",
       "nationality": "CAN",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8477505,
@@ -1627,28 +1627,28 @@
       "name": "Ryan Pulock",
       "team": "NYI",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8477507,
       "name": "Nikita Zadorov",
       "team": "BOS",
       "nationality": "RUS",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8477508,
       "name": "Curtis Lazar",
       "team": "EDM",
       "nationality": "CAN",
-      "gamesPlayed": 39
+      "gamesPlayed": 40
     },
     {
       "id": 8477511,
       "name": "Anthony Mantha",
       "team": "PIT",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8477527,
@@ -1683,42 +1683,42 @@
       "name": "Conor Sheary",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8477845,
       "name": "Trevor van Riemsdyk",
       "team": "WSH",
       "nationality": "USA",
-      "gamesPlayed": 60
+      "gamesPlayed": 61
     },
     {
       "id": 8477903,
       "name": "Garnet Hathaway",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 61
+      "gamesPlayed": 62
     },
     {
       "id": 8477919,
       "name": "Frederick Gaudreau",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 58
+      "gamesPlayed": 59
     },
     {
       "id": 8477931,
       "name": "Tomas Nosek",
       "team": "FLA",
       "nationality": "CZE",
-      "gamesPlayed": 13
+      "gamesPlayed": 14
     },
     {
       "id": 8477932,
       "name": "Aaron Ekblad",
       "team": "FLA",
       "nationality": "CAN",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8477933,
@@ -1739,7 +1739,7 @@
       "name": "Sam Bennett",
       "team": "FLA",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8477938,
@@ -1760,7 +1760,7 @@
       "name": "Nikolaj Ehlers",
       "team": "CAR",
       "nationality": "DNK",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8477942,
@@ -1774,7 +1774,7 @@
       "name": "Dylan Larkin",
       "team": "DET",
       "nationality": "USA",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8477947,
@@ -1788,14 +1788,14 @@
       "name": "Travis Sanheim",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8477949,
       "name": "Alex Tuch",
       "team": "BUF",
       "nationality": "USA",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8477950,
@@ -1823,21 +1823,21 @@
       "name": "Kasperi Kapanen",
       "team": "EDM",
       "nationality": "FIN",
-      "gamesPlayed": 33
+      "gamesPlayed": 34
     },
     {
       "id": 8477955,
       "name": "Jared McCann",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 45
+      "gamesPlayed": 46
     },
     {
       "id": 8477956,
       "name": "David Pastrnak",
       "team": "BOS",
       "nationality": "CZE",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8477960,
@@ -1893,21 +1893,21 @@
       "name": "Brandon Montour",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8477987,
       "name": "Ryan Donato",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8477989,
       "name": "Christian Dvorak",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8477993,
@@ -1928,42 +1928,42 @@
       "name": "Warren Foegele",
       "team": "LAK",
       "nationality": "CAN",
-      "gamesPlayed": 59
+      "gamesPlayed": 60
     },
     {
       "id": 8478007,
       "name": "Elvis Merzlikins",
       "team": "CBJ",
       "nationality": "LVA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8478009,
       "name": "Ilya Sorokin",
       "team": "NYI",
       "nationality": "RUS",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8478010,
       "name": "Brayden Point",
       "team": "TBL",
       "nationality": "CAN",
-      "gamesPlayed": 55
+      "gamesPlayed": 56
     },
     {
       "id": 8478013,
       "name": "Jake Walman",
       "team": "EDM",
       "nationality": "CAN",
-      "gamesPlayed": 45
+      "gamesPlayed": 46
     },
     {
       "id": 8478020,
       "name": "Michael Amadio",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8478038,
@@ -1977,21 +1977,21 @@
       "name": "Viktor Arvidsson",
       "team": "BOS",
       "nationality": "SWE",
-      "gamesPlayed": 62
+      "gamesPlayed": 63
     },
     {
       "id": 8478043,
       "name": "Sam Lafferty",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 26
+      "gamesPlayed": 27
     },
     {
       "id": 8478046,
       "name": "Danton Heinen",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 38
+      "gamesPlayed": 39
     },
     {
       "id": 8478047,
@@ -2005,7 +2005,7 @@
       "name": "Gustav Forsling",
       "team": "FLA",
       "nationality": "SWE",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8478057,
@@ -2040,7 +2040,7 @@
       "name": "Jake Evans",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 59
+      "gamesPlayed": 60
     },
     {
       "id": 8478136,
@@ -2054,7 +2054,7 @@
       "name": "Darren Raddysh",
       "team": "TBL",
       "nationality": "CAN",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8478233,
@@ -2089,28 +2089,28 @@
       "name": "Kyle Connor",
       "team": "WPG",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8478399,
       "name": "Jonas Siegenthaler",
       "team": "NJD",
       "nationality": "CHE",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8478401,
       "name": "Pavel Zacha",
       "team": "BOS",
       "nationality": "CZE",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8478402,
       "name": "Connor McDavid",
       "team": "EDM",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8478403,
@@ -2124,42 +2124,42 @@
       "name": "Vince Dunn",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8478413,
       "name": "Jordan Greenway",
       "team": "BUF",
       "nationality": "USA",
-      "gamesPlayed": 33
+      "gamesPlayed": 34
     },
     {
       "id": 8478414,
       "name": "Timo Meier",
       "team": "NJD",
       "nationality": "CHE",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8478416,
       "name": "Erik Cernak",
       "team": "TBL",
       "nationality": "SVK",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8478420,
       "name": "Mikko Rantanen",
       "team": "DAL",
       "nationality": "FIN",
-      "gamesPlayed": 56
+      "gamesPlayed": 57
     },
     {
       "id": 8478421,
       "name": "A.J. Greer",
       "team": "FLA",
       "nationality": "CAN",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8478424,
@@ -2173,7 +2173,7 @@
       "name": "Sebastian Aho",
       "team": "CAR",
       "nationality": "FIN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8478434,
@@ -2187,21 +2187,21 @@
       "name": "Tommy Novak",
       "team": "PIT",
       "nationality": "USA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8478439,
       "name": "Travis Konecny",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8478440,
       "name": "Dylan Strome",
       "team": "WSH",
       "nationality": "CAN",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8478443,
@@ -2222,7 +2222,7 @@
       "name": "Mathew Barzal",
       "team": "NYI",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8478449,
@@ -2236,7 +2236,7 @@
       "name": "Parker Wotherspoon",
       "team": "PIT",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8478452,
@@ -2257,14 +2257,14 @@
       "name": "Jack Roslovic",
       "team": "EDM",
       "nationality": "USA",
-      "gamesPlayed": 61
+      "gamesPlayed": 62
     },
     {
       "id": 8478460,
       "name": "Zach Werenski",
       "team": "CBJ",
       "nationality": "USA",
-      "gamesPlayed": 67
+      "gamesPlayed": 68
     },
     {
       "id": 8478462,
@@ -2278,7 +2278,7 @@
       "name": "Anthony Beauvillier",
       "team": "WSH",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8478468,
@@ -2348,7 +2348,7 @@
       "name": "Ivan Provorov",
       "team": "CBJ",
       "nationality": "RUS",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8478502,
@@ -2376,7 +2376,7 @@
       "name": "Anthony Cirelli",
       "team": "TBL",
       "nationality": "CAN",
-      "gamesPlayed": 65
+      "gamesPlayed": 66
     },
     {
       "id": 8478542,
@@ -2397,7 +2397,7 @@
       "name": "Noel Acciari",
       "team": "PIT",
       "nationality": "USA",
-      "gamesPlayed": 60
+      "gamesPlayed": 61
     },
     {
       "id": 8478831,
@@ -2411,7 +2411,7 @@
       "name": "Will Borgen",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 67
+      "gamesPlayed": 68
     },
     {
       "id": 8478841,
@@ -2432,14 +2432,14 @@
       "name": "Ryan Shea",
       "team": "PIT",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8478856,
       "name": "Conor Garland",
       "team": "VAN",
       "nationality": "USA",
-      "gamesPlayed": 63
+      "gamesPlayed": 64
     },
     {
       "id": 8478859,
@@ -2481,14 +2481,14 @@
       "name": "Vladislav Gavrikov",
       "team": "NYR",
       "nationality": "RUS",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8478891,
       "name": "Mason Appleton",
       "team": "DET",
       "nationality": "USA",
-      "gamesPlayed": 63
+      "gamesPlayed": 64
     },
     {
       "id": 8478904,
@@ -2502,35 +2502,35 @@
       "name": "Matt Roy",
       "team": "WSH",
       "nationality": "USA",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8478916,
       "name": "Joey Daccord",
       "team": "SEA",
       "nationality": "USA",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8478970,
       "name": "Jalen Chatfield",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8478971,
       "name": "Connor Ingram",
       "team": "EDM",
       "nationality": "CAN",
-      "gamesPlayed": 37
+      "gamesPlayed": 38
     },
     {
       "id": 8478975,
       "name": "Mason Marchment",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 61
+      "gamesPlayed": 62
     },
     {
       "id": 8479022,
@@ -2565,7 +2565,7 @@
       "name": "Charlie Lindgren",
       "team": "WSH",
       "nationality": "USA",
-      "gamesPlayed": 67
+      "gamesPlayed": 68
     },
     {
       "id": 8479293,
@@ -2579,21 +2579,21 @@
       "name": "Alex Lyon",
       "team": "BUF",
       "nationality": "USA",
-      "gamesPlayed": 50
+      "gamesPlayed": 51
     },
     {
       "id": 8479314,
       "name": "Matthew Tkachuk",
       "team": "FLA",
       "nationality": "USA",
-      "gamesPlayed": 26
+      "gamesPlayed": 27
     },
     {
       "id": 8479316,
       "name": "Luke Kunin",
       "team": "FLA",
       "nationality": "USA",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8479318,
@@ -2607,35 +2607,35 @@
       "name": "Adam Fox",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 47
+      "gamesPlayed": 48
     },
     {
       "id": 8479324,
       "name": "Ryan Lindgren",
       "team": "SEA",
       "nationality": "USA",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8479325,
       "name": "Charlie McAvoy",
       "team": "BOS",
       "nationality": "USA",
-      "gamesPlayed": 62
+      "gamesPlayed": 63
     },
     {
       "id": 8479336,
       "name": "Carl Grundstrom",
       "team": "PHI",
       "nationality": "SWE",
-      "gamesPlayed": 43
+      "gamesPlayed": 44
     },
     {
       "id": 8479337,
       "name": "Alex DeBrincat",
       "team": "DET",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8479339,
@@ -2656,7 +2656,7 @@
       "name": "Jakob Chychrun",
       "team": "WSH",
       "nationality": "USA",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8479351,
@@ -2677,7 +2677,7 @@
       "name": "Beck Malenstyn",
       "team": "BUF",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8479361,
@@ -2705,14 +2705,14 @@
       "name": "Max Jones",
       "team": "EDM",
       "nationality": "USA",
-      "gamesPlayed": 15
+      "gamesPlayed": 16
     },
     {
       "id": 8479369,
       "name": "Andrew Peeke",
       "team": "BOS",
       "nationality": "USA",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8479370,
@@ -2726,7 +2726,7 @@
       "name": "Dante Fabbro",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8479372,
@@ -2740,7 +2740,7 @@
       "name": "Logan Stanley",
       "team": "WPG",
       "nationality": "CAN",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8479385,
@@ -2768,7 +2768,7 @@
       "name": "Noah Gregor",
       "team": "FLA",
       "nationality": "CAN",
-      "gamesPlayed": 28
+      "gamesPlayed": 29
     },
     {
       "id": 8479395,
@@ -2782,14 +2782,14 @@
       "name": "Samuel Girard",
       "team": "COL",
       "nationality": "CAN",
-      "gamesPlayed": 53
+      "gamesPlayed": 54
     },
     {
       "id": 8479400,
       "name": "Pierre-Luc Dubois",
       "team": "WSH",
       "nationality": "CAN",
-      "gamesPlayed": 22
+      "gamesPlayed": 23
     },
     {
       "id": 8479402,
@@ -2810,7 +2810,7 @@
       "name": "Jesper Bratt",
       "team": "NJD",
       "nationality": "SWE",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8479410,
@@ -2831,7 +2831,7 @@
       "name": "Tage Thompson",
       "team": "BUF",
       "nationality": "USA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8479425,
@@ -2852,7 +2852,7 @@
       "name": "Brandon Duhaime",
       "team": "WSH",
       "nationality": "USA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8479525,
@@ -2873,7 +2873,7 @@
       "name": "Brandon Hagel",
       "team": "TBL",
       "nationality": "CAN",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8479550,
@@ -2908,7 +2908,7 @@
       "name": "Justin Brazeau",
       "team": "PIT",
       "nationality": "CAN",
-      "gamesPlayed": 56
+      "gamesPlayed": 57
     },
     {
       "id": 8479644,
@@ -2922,7 +2922,7 @@
       "name": "Tanner Jeannot",
       "team": "BOS",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8479671,
@@ -2971,7 +2971,7 @@
       "name": "Stuart Skinner",
       "team": "PIT",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8479977,
@@ -2985,7 +2985,7 @@
       "name": "Jake Oettinger",
       "team": "DAL",
       "nationality": "USA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8479980,
@@ -3027,7 +3027,7 @@
       "name": "Morgan Geekie",
       "team": "BOS",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8479992,
@@ -3041,7 +3041,7 @@
       "name": "Cody Glass",
       "team": "NJD",
       "nationality": "CAN",
-      "gamesPlayed": 61
+      "gamesPlayed": 62
     },
     {
       "id": 8479998,
@@ -3055,7 +3055,7 @@
       "name": "Casey Mittelstadt",
       "team": "BOS",
       "nationality": "USA",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8480001,
@@ -3069,14 +3069,14 @@
       "name": "Nico Hischier",
       "team": "NJD",
       "nationality": "CHE",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8480003,
       "name": "Jesper Boqvist",
       "team": "FLA",
       "nationality": "SWE",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8480007,
@@ -3090,7 +3090,7 @@
       "name": "Eeli Tolvanen",
       "team": "SEA",
       "nationality": "FIN",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8480012,
@@ -3104,21 +3104,21 @@
       "name": "Gabriel Vilardi",
       "team": "WPG",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8480015,
       "name": "Owen Tippett",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8480018,
       "name": "Nick Suzuki",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8480023,
@@ -3132,7 +3132,7 @@
       "name": "Jason Robertson",
       "team": "DAL",
       "nationality": "USA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8480028,
@@ -3146,14 +3146,14 @@
       "name": "Henri Jokiharju",
       "team": "BOS",
       "nationality": "FIN",
-      "gamesPlayed": 38
+      "gamesPlayed": 39
     },
     {
       "id": 8480036,
       "name": "Miro Heiskanen",
       "team": "DAL",
       "nationality": "FIN",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8480039,
@@ -3174,7 +3174,7 @@
       "name": "Dylan Samberg",
       "team": "WPG",
       "nationality": "USA",
-      "gamesPlayed": 57
+      "gamesPlayed": 58
     },
     {
       "id": 8480058,
@@ -3188,7 +3188,7 @@
       "name": "Josh Norris",
       "team": "BUF",
       "nationality": "USA",
-      "gamesPlayed": 36
+      "gamesPlayed": 37
     },
     {
       "id": 8480068,
@@ -3230,63 +3230,63 @@
       "name": "Alex Iafallo",
       "team": "WPG",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8480144,
       "name": "David Kampf",
       "team": "VAN",
       "nationality": "CZE",
-      "gamesPlayed": 38
+      "gamesPlayed": 39
     },
     {
       "id": 8480145,
       "name": "Neal Pionk",
       "team": "WPG",
       "nationality": "USA",
-      "gamesPlayed": 45
+      "gamesPlayed": 46
     },
     {
       "id": 8480185,
       "name": "Eetu Luostarinen",
       "team": "FLA",
       "nationality": "FIN",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8480188,
       "name": "Fabian Zetterlund",
       "team": "OTT",
       "nationality": "SWE",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8480192,
       "name": "Johnathan Kovacevic",
       "team": "NJD",
       "nationality": "CAN",
-      "gamesPlayed": 25
+      "gamesPlayed": 26
     },
     {
       "id": 8480196,
       "name": "Jacob Bryson",
       "team": "BUF",
       "nationality": "CAN",
-      "gamesPlayed": 43
+      "gamesPlayed": 44
     },
     {
       "id": 8480208,
       "name": "Drake Batherson",
       "team": "OTT",
       "nationality": "USA",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8480220,
       "name": "Noah Cates",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8480245,
@@ -3328,28 +3328,28 @@
       "name": "Logan Thompson",
       "team": "WSH",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8480336,
       "name": "Sean Walker",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8480355,
       "name": "Mark Kastelic",
       "team": "BOS",
       "nationality": "USA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8480426,
       "name": "Charle-Edouard D'Astous",
       "team": "TBL",
       "nationality": "CAN",
-      "gamesPlayed": 61
+      "gamesPlayed": 62
     },
     {
       "id": 8480434,
@@ -3391,14 +3391,14 @@
       "name": "Eric Robinson",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 59
+      "gamesPlayed": 60
     },
     {
       "id": 8480796,
       "name": "Martin Fehérváry",
       "team": "WSH",
       "nationality": "SVK",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8480797,
@@ -3426,49 +3426,49 @@
       "name": "Brady Tkachuk",
       "team": "OTT",
       "nationality": "USA",
-      "gamesPlayed": 53
+      "gamesPlayed": 54
     },
     {
       "id": 8480802,
       "name": "Ryan McLeod",
       "team": "BUF",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8480803,
       "name": "Evan Bouchard",
       "team": "EDM",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8480806,
       "name": "Isac Lundeström",
       "team": "CBJ",
       "nationality": "SWE",
-      "gamesPlayed": 60
+      "gamesPlayed": 61
     },
     {
       "id": 8480807,
       "name": "Mattias Samuelsson",
       "team": "BUF",
       "nationality": "USA",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8480813,
       "name": "Joe Veleno",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8480817,
       "name": "K'Andre Miller",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 65
+      "gamesPlayed": 66
     },
     {
       "id": 8480825,
@@ -3489,7 +3489,7 @@
       "name": "Andrei Svechnikov",
       "team": "CAR",
       "nationality": "RUS",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8480831,
@@ -3503,7 +3503,7 @@
       "name": "Ty Emberson",
       "team": "EDM",
       "nationality": "USA",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8480835,
@@ -3517,14 +3517,14 @@
       "name": "Rasmus Dahlin",
       "team": "BUF",
       "nationality": "SWE",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8480840,
       "name": "Oskar Bäck",
       "team": "DAL",
       "nationality": "SWE",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8480842,
@@ -3566,7 +3566,7 @@
       "name": "Noah Dobson",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8480870,
@@ -3580,14 +3580,14 @@
       "name": "Adam Boqvist",
       "team": "NYI",
       "nationality": "SWE",
-      "gamesPlayed": 26
+      "gamesPlayed": 27
     },
     {
       "id": 8480873,
       "name": "Rasmus Sandin",
       "team": "WSH",
       "nationality": "SWE",
-      "gamesPlayed": 67
+      "gamesPlayed": 68
     },
     {
       "id": 8480876,
@@ -3601,14 +3601,14 @@
       "name": "Nils Lundkvist",
       "team": "DAL",
       "nationality": "SWE",
-      "gamesPlayed": 47
+      "gamesPlayed": 48
     },
     {
       "id": 8480879,
       "name": "Jacob Bernard-Docker",
       "team": "DET",
       "nationality": "CAN",
-      "gamesPlayed": 57
+      "gamesPlayed": 58
     },
     {
       "id": 8480887,
@@ -3629,7 +3629,7 @@
       "name": "Kirill Marchenko",
       "team": "CBJ",
       "nationality": "RUS",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8480947,
@@ -3643,14 +3643,14 @@
       "name": "Ilya Lyubushkin",
       "team": "DAL",
       "nationality": "RUS",
-      "gamesPlayed": 45
+      "gamesPlayed": 46
     },
     {
       "id": 8480980,
       "name": "Connor Dewar",
       "team": "PIT",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8480990,
@@ -3664,7 +3664,7 @@
       "name": "Pontus Holmberg",
       "team": "TBL",
       "nationality": "SWE",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8481006,
@@ -3713,7 +3713,7 @@
       "name": "Paul Cotter",
       "team": "NJD",
       "nationality": "USA",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8481033,
@@ -3727,14 +3727,14 @@
       "name": "Samuel Ersson",
       "team": "PHI",
       "nationality": "SWE",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8481043,
       "name": "Cole Koepke",
       "team": "WPG",
       "nationality": "USA",
-      "gamesPlayed": 57
+      "gamesPlayed": 58
     },
     {
       "id": 8481056,
@@ -3783,7 +3783,7 @@
       "name": "Cole Reinhardt",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 53
+      "gamesPlayed": 54
     },
     {
       "id": 8481161,
@@ -3804,7 +3804,7 @@
       "name": "Egor Zamula",
       "team": "CBJ",
       "nationality": "RUS",
-      "gamesPlayed": 29
+      "gamesPlayed": 30
     },
     {
       "id": 8481186,
@@ -3818,14 +3818,14 @@
       "name": "Jonathan Aspirot",
       "team": "BOS",
       "nationality": "CAN",
-      "gamesPlayed": 53
+      "gamesPlayed": 54
     },
     {
       "id": 8481237,
       "name": "Kyle MacLean",
       "team": "NYI",
       "nationality": "USA",
-      "gamesPlayed": 55
+      "gamesPlayed": 56
     },
     {
       "id": 8481477,
@@ -3860,14 +3860,14 @@
       "name": "Spencer Knight",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8481522,
       "name": "Peyton Krebs",
       "team": "BUF",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8481523,
@@ -3881,14 +3881,14 @@
       "name": "Bowen Byram",
       "team": "BUF",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8481525,
       "name": "Matthew Robertson",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8481527,
@@ -3902,7 +3902,7 @@
       "name": "Dylan Cozens",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8481532,
@@ -3916,7 +3916,7 @@
       "name": "Trevor Zegras",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8481535,
@@ -3930,21 +3930,21 @@
       "name": "Cole Caufield",
       "team": "MTL",
       "nationality": "USA",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8481542,
       "name": "Moritz Seider",
       "team": "DET",
       "nationality": "DEU",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8481546,
       "name": "Cam York",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8481551,
@@ -3965,7 +3965,7 @@
       "name": "Kaapo Kakko",
       "team": "SEA",
       "nationality": "FIN",
-      "gamesPlayed": 55
+      "gamesPlayed": 56
     },
     {
       "id": 8481556,
@@ -3986,7 +3986,7 @@
       "name": "Jack Hughes",
       "team": "NJD",
       "nationality": "USA",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8481560,
@@ -4007,7 +4007,7 @@
       "name": "Alex Vlasic",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8481569,
@@ -4015,6 +4015,13 @@
       "team": "NYI",
       "nationality": "USA",
       "gamesPlayed": 8
+    },
+    {
+      "id": 8481575,
+      "name": "Lassi Thomson",
+      "team": "OTT",
+      "nationality": "FIN",
+      "gamesPlayed": 3
     },
     {
       "id": 8481577,
@@ -4028,14 +4035,14 @@
       "name": "Connor McMichael",
       "team": "WSH",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8481581,
       "name": "Thomas Harley",
       "team": "DAL",
       "nationality": "USA",
-      "gamesPlayed": 62
+      "gamesPlayed": 63
     },
     {
       "id": 8481582,
@@ -4049,14 +4056,14 @@
       "name": "Jayden Struble",
       "team": "MTL",
       "nationality": "USA",
-      "gamesPlayed": 50
+      "gamesPlayed": 51
     },
     {
       "id": 8481596,
       "name": "Shane Pinto",
       "team": "OTT",
       "nationality": "USA",
-      "gamesPlayed": 63
+      "gamesPlayed": 64
     },
     {
       "id": 8481598,
@@ -4105,14 +4112,14 @@
       "name": "Jordan Spence",
       "team": "OTT",
       "nationality": "AUS",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8481607,
       "name": "Albert Johansson",
       "team": "DET",
       "nationality": "SWE",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8481609,
@@ -4126,21 +4133,21 @@
       "name": "Vasily Podkolzin",
       "team": "EDM",
       "nationality": "RUS",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8481618,
       "name": "Alex Newhook",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 33
+      "gamesPlayed": 34
     },
     {
       "id": 8481624,
       "name": "Ilya Mikheyev",
       "team": "CHI",
       "nationality": "RUS",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8481641,
@@ -4168,7 +4175,7 @@
       "name": "Arturs Silovs",
       "team": "PIT",
       "nationality": "LVA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8481704,
@@ -4210,7 +4217,7 @@
       "name": "Elmer Soderblom",
       "team": "DET",
       "nationality": "SWE",
-      "gamesPlayed": 51
+      "gamesPlayed": 52
     },
     {
       "id": 8481726,
@@ -4238,14 +4245,14 @@
       "name": "Tye Kartye",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 56
+      "gamesPlayed": 57
     },
     {
       "id": 8481806,
       "name": "Louis Crevier",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8482055,
@@ -4273,7 +4280,7 @@
       "name": "Braden Schneider",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8482074,
@@ -4294,7 +4301,7 @@
       "name": "Lucas Raymond",
       "team": "DET",
       "nationality": "SWE",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8482079,
@@ -4308,14 +4315,14 @@
       "name": "Kaiden Guhle",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 33
+      "gamesPlayed": 34
     },
     {
       "id": 8482088,
       "name": "Justin Sourdif",
       "team": "WSH",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8482089,
@@ -4336,14 +4343,14 @@
       "name": "Ridly Greig",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8482093,
       "name": "Seth Jarvis",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 65
+      "gamesPlayed": 66
     },
     {
       "id": 8482094,
@@ -4357,21 +4364,21 @@
       "name": "Tyler Kleven",
       "team": "OTT",
       "nationality": "USA",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8482097,
       "name": "Jack Quinn",
       "team": "BUF",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8482100,
       "name": "Alexander Nikishin",
       "team": "CAR",
       "nationality": "RUS",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8482103,
@@ -4392,21 +4399,21 @@
       "name": "Mike Benning",
       "team": "FLA",
       "nationality": "CAN",
-      "gamesPlayed": 9
+      "gamesPlayed": 10
     },
     {
       "id": 8482109,
       "name": "Alexis Lafrenière",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8482110,
       "name": "Dawson Mercer",
       "team": "NJD",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8482111,
@@ -4427,14 +4434,14 @@
       "name": "Tim Stützle",
       "team": "OTT",
       "nationality": "DEU",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8482117,
       "name": "Lukas Reichel",
       "team": "VAN",
       "nationality": "DEU",
-      "gamesPlayed": 25
+      "gamesPlayed": 26
     },
     {
       "id": 8482118,
@@ -4469,28 +4476,28 @@
       "name": "Emil Andrae",
       "team": "PHI",
       "nationality": "SWE",
-      "gamesPlayed": 53
+      "gamesPlayed": 54
     },
     {
       "id": 8482131,
       "name": "Donovan Sebrango",
       "team": "FLA",
       "nationality": "CAN",
-      "gamesPlayed": 33
+      "gamesPlayed": 34
     },
     {
       "id": 8482142,
       "name": "Jamie Drysdale",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8482145,
       "name": "Mavrik Bourque",
       "team": "DAL",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8482146,
@@ -4504,14 +4511,14 @@
       "name": "Hendrix Lapierre",
       "team": "WSH",
       "nationality": "CAN",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8482149,
       "name": "Cole Perfetti",
       "team": "WPG",
       "nationality": "CAN",
-      "gamesPlayed": 59
+      "gamesPlayed": 60
     },
     {
       "id": 8482153,
@@ -4532,7 +4539,7 @@
       "name": "Will Cuylle",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8482159,
@@ -4567,7 +4574,7 @@
       "name": "Landon Slaggert",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 46
+      "gamesPlayed": 47
     },
     {
       "id": 8482175,
@@ -4581,14 +4588,14 @@
       "name": "Wyatt Kaiser",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8482177,
       "name": "Marat Khusnutdinov",
       "team": "BOS",
       "nationality": "RUS",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8482178,
@@ -4602,7 +4609,7 @@
       "name": "Gage Goncalves",
       "team": "TBL",
       "nationality": "CAN",
-      "gamesPlayed": 65
+      "gamesPlayed": 66
     },
     {
       "id": 8482206,
@@ -4616,14 +4623,14 @@
       "name": "Artem Zub",
       "team": "OTT",
       "nationality": "RUS",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8482259,
       "name": "Bobby McMann",
       "team": "TOR",
       "nationality": "CAN",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8482408,
@@ -4665,14 +4672,14 @@
       "name": "Egor Chinakhov",
       "team": "PIT",
       "nationality": "RUS",
-      "gamesPlayed": 65
+      "gamesPlayed": 66
     },
     {
       "id": 8482476,
       "name": "Emil Heineman",
       "team": "NYI",
       "nationality": "SWE",
-      "gamesPlayed": 75
+      "gamesPlayed": 76
     },
     {
       "id": 8482482,
@@ -4721,21 +4728,21 @@
       "name": "J.J. Moser",
       "team": "TBL",
       "nationality": "CHE",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8482659,
       "name": "Josh Doan",
       "team": "BUF",
       "nationality": "USA",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8482660,
       "name": "Kent Johnson",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8482661,
@@ -4749,7 +4756,7 @@
       "name": "Matty Beniers",
       "team": "SEA",
       "nationality": "USA",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8482666,
@@ -4770,7 +4777,7 @@
       "name": "Owen Power",
       "team": "BUF",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8482679,
@@ -4784,7 +4791,7 @@
       "name": "Luke Hughes",
       "team": "NJD",
       "nationality": "USA",
-      "gamesPlayed": 63
+      "gamesPlayed": 64
     },
     {
       "id": 8482691,
@@ -4805,7 +4812,7 @@
       "name": "Logan Stankoven",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8482703,
@@ -4819,14 +4826,14 @@
       "name": "Cole Sillinger",
       "team": "CBJ",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8482713,
       "name": "Mackie Samoskevich",
       "team": "FLA",
       "nationality": "USA",
-      "gamesPlayed": 68
+      "gamesPlayed": 69
     },
     {
       "id": 8482715,
@@ -4868,14 +4875,14 @@
       "name": "Zachary Bolduc",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8482740,
       "name": "Wyatt Johnston",
       "team": "DAL",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8482742,
@@ -4917,14 +4924,14 @@
       "name": "Simon Edvinsson",
       "team": "DET",
       "nationality": "SWE",
-      "gamesPlayed": 63
+      "gamesPlayed": 64
     },
     {
       "id": 8482765,
       "name": "Isak Rosen",
       "team": "BUF",
       "nationality": "SWE",
-      "gamesPlayed": 28
+      "gamesPlayed": 29
     },
     {
       "id": 8482768,
@@ -4938,7 +4945,7 @@
       "name": "Oliver Kapanen",
       "team": "MTL",
       "nationality": "SWE",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8482785,
@@ -4959,14 +4966,14 @@
       "name": "Jackson Blake",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8482858,
       "name": "Ryker Evans",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 57
+      "gamesPlayed": 58
     },
     {
       "id": 8482859,
@@ -4994,7 +5001,7 @@
       "name": "Jaroslav Chmelar",
       "team": "NYR",
       "nationality": "CZE",
-      "gamesPlayed": 20
+      "gamesPlayed": 21
     },
     {
       "id": 8482896,
@@ -5015,7 +5022,7 @@
       "name": "Emil Lilleberg",
       "team": "TBL",
       "nationality": "NOR",
-      "gamesPlayed": 41
+      "gamesPlayed": 42
     },
     {
       "id": 8482947,
@@ -5029,14 +5036,14 @@
       "name": "Arber Xhekaj",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 56
+      "gamesPlayed": 57
     },
     {
       "id": 8482993,
       "name": "Avery Hayes",
       "team": "PIT",
       "nationality": "USA",
-      "gamesPlayed": 12
+      "gamesPlayed": 13
     },
     {
       "id": 8483039,
@@ -5078,7 +5085,7 @@
       "name": "Lian Bichsel",
       "team": "DAL",
       "nationality": "CHE",
-      "gamesPlayed": 43
+      "gamesPlayed": 44
     },
     {
       "id": 8483431,
@@ -5120,7 +5127,7 @@
       "name": "Ryan Greene",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8483452,
@@ -5141,14 +5148,14 @@
       "name": "Lane Hutson",
       "team": "MTL",
       "nationality": "USA",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8483464,
       "name": "Marco Kasper",
       "team": "DET",
       "nationality": "AUT",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8483465,
@@ -5162,7 +5169,7 @@
       "name": "Kevin Korchinski",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     {
       "id": 8483468,
@@ -5176,7 +5183,7 @@
       "name": "Brad Lambert",
       "team": "WPG",
       "nationality": "FIN",
-      "gamesPlayed": 16
+      "gamesPlayed": 17
     },
     {
       "id": 8483472,
@@ -5197,7 +5204,7 @@
       "name": "Denton Mateychuk",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 67
+      "gamesPlayed": 68
     },
     {
       "id": 8483487,
@@ -5211,7 +5218,7 @@
       "name": "Fraser Minten",
       "team": "BOS",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8483490,
@@ -5225,21 +5232,21 @@
       "name": "Unknown (8483491)",
       "team": null,
       "nationality": null,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     {
       "id": 8483493,
       "name": "Frank Nazar",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 58
+      "gamesPlayed": 59
     },
     {
       "id": 8483495,
       "name": "Simon Nemec",
       "team": "NJD",
       "nationality": "SVK",
-      "gamesPlayed": 59
+      "gamesPlayed": 60
     },
     {
       "id": 8483497,
@@ -5274,21 +5281,21 @@
       "name": "Sam Rinzel",
       "team": "CHI",
       "nationality": "USA",
-      "gamesPlayed": 46
+      "gamesPlayed": 47
     },
     {
       "id": 8483510,
       "name": "Elias Salomonsson",
       "team": "WPG",
       "nationality": "SWE",
-      "gamesPlayed": 30
+      "gamesPlayed": 31
     },
     {
       "id": 8483512,
       "name": "Matt Savoie",
       "team": "EDM",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8483513,
@@ -5302,7 +5309,7 @@
       "name": "Juraj Slafkovský",
       "team": "MTL",
       "nationality": "SVK",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8483516,
@@ -5326,6 +5333,13 @@
       "gamesPlayed": 65
     },
     {
+      "id": 8483526,
+      "name": "Danil Zhilkin",
+      "team": "WPG",
+      "nationality": "RUS",
+      "gamesPlayed": 6
+    },
+    {
       "id": 8483531,
       "name": "Brian Halonen",
       "team": "NJD",
@@ -5337,14 +5351,14 @@
       "name": "Brandon Bussi",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8483553,
       "name": "Marc Gatcomb",
       "team": "NYI",
       "nationality": "USA",
-      "gamesPlayed": 43
+      "gamesPlayed": 44
     },
     {
       "id": 8483565,
@@ -5358,7 +5372,7 @@
       "name": "Ben Meyers",
       "team": "SEA",
       "nationality": "USA",
-      "gamesPlayed": 47
+      "gamesPlayed": 48
     },
     {
       "id": 8483573,
@@ -5386,7 +5400,7 @@
       "name": "Adam Sykora",
       "team": "NYR",
       "nationality": "SVK",
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     {
       "id": 8483676,
@@ -5407,7 +5421,7 @@
       "name": "Noah Laba",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8483699,
@@ -5491,7 +5505,7 @@
       "name": "Parker Ford",
       "team": "WPG",
       "nationality": "USA",
-      "gamesPlayed": 12
+      "gamesPlayed": 13
     },
     {
       "id": 8484136,
@@ -5505,21 +5519,21 @@
       "name": "Denver Barkey",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 36
+      "gamesPlayed": 37
     },
     {
       "id": 8484144,
       "name": "Connor Bedard",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 61
+      "gamesPlayed": 62
     },
     {
       "id": 8484145,
       "name": "Zach Benson",
       "team": "BUF",
       "nationality": "CAN",
-      "gamesPlayed": 57
+      "gamesPlayed": 58
     },
     {
       "id": 8484149,
@@ -5568,28 +5582,28 @@
       "name": "Adam Fantilli",
       "team": "CBJ",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8484168,
       "name": "Oscar Fisker Molgaard",
       "team": "SEA",
       "nationality": "DNK",
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     {
       "id": 8484169,
       "name": "Drew Fortescue",
       "team": "NYR",
       "nationality": "USA",
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     {
       "id": 8484177,
       "name": "Lenni Hameenaho",
       "team": "NJD",
       "nationality": "FIN",
-      "gamesPlayed": 25
+      "gamesPlayed": 26
     },
     {
       "id": 8484180,
@@ -5603,14 +5617,14 @@
       "name": "Nick Lardis",
       "team": "CHI",
       "nationality": "CAN",
-      "gamesPlayed": 33
+      "gamesPlayed": 34
     },
     {
       "id": 8484186,
       "name": "Ryan Leonard",
       "team": "WSH",
       "nationality": "USA",
-      "gamesPlayed": 67
+      "gamesPlayed": 68
     },
     {
       "id": 8484188,
@@ -5638,14 +5652,14 @@
       "name": "Gabe Perreault",
       "team": "NYR",
       "nationality": "CAN",
-      "gamesPlayed": 41
+      "gamesPlayed": 42
     },
     {
       "id": 8484221,
       "name": "Calum Ritchie",
       "team": "NYI",
       "nationality": "CAN",
-      "gamesPlayed": 58
+      "gamesPlayed": 59
     },
     {
       "id": 8484223,
@@ -5708,14 +5722,14 @@
       "name": "Zach Metsa",
       "team": "BUF",
       "nationality": "USA",
-      "gamesPlayed": 38
+      "gamesPlayed": 39
     },
     {
       "id": 8484321,
       "name": "Nikolas Matinpalo",
       "team": "OTT",
       "nationality": "FIN",
-      "gamesPlayed": 41
+      "gamesPlayed": 42
     },
     {
       "id": 8484386,
@@ -5729,7 +5743,7 @@
       "name": "Matvei Michkov",
       "team": "PHI",
       "nationality": "RUS",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8484388,
@@ -5757,14 +5771,14 @@
       "name": "Emmitt Finnie",
       "team": "DET",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8484509,
       "name": "Josh Samanski",
       "team": "EDM",
       "nationality": "DEU",
-      "gamesPlayed": 17
+      "gamesPlayed": 18
     },
     {
       "id": 8484529,
@@ -5778,7 +5792,7 @@
       "name": "Carter Yakemchuk",
       "team": "OTT",
       "nationality": "CAN",
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     {
       "id": 8484762,
@@ -5827,7 +5841,7 @@
       "name": "Berkly Catton",
       "team": "SEA",
       "nationality": "CAN",
-      "gamesPlayed": 56
+      "gamesPlayed": 57
     },
     {
       "id": 8484801,
@@ -5848,7 +5862,7 @@
       "name": "Justin Hryckowian",
       "team": "DAL",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8484839,
@@ -5869,7 +5883,7 @@
       "name": "Cole Hutson",
       "team": "WSH",
       "nationality": "USA",
-      "gamesPlayed": 6
+      "gamesPlayed": 7
     },
     {
       "id": 8484901,
@@ -5890,21 +5904,21 @@
       "name": "Arttu Hyry",
       "team": "DAL",
       "nationality": "FIN",
-      "gamesPlayed": 13
+      "gamesPlayed": 14
     },
     {
       "id": 8484958,
       "name": "Maxim Tsyplakov",
       "team": "NYI",
       "nationality": "RUS",
-      "gamesPlayed": 46
+      "gamesPlayed": 47
     },
     {
       "id": 8484984,
       "name": "Ivan Demidov",
       "team": "MTL",
       "nationality": "RUS",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8484994,
@@ -5918,14 +5932,14 @@
       "name": "Matthew Schaefer",
       "team": "NYI",
       "nationality": "CAN",
-      "gamesPlayed": 75
+      "gamesPlayed": 76
     },
     {
       "id": 8485391,
       "name": "Anton Frondell",
       "team": "CHI",
       "nationality": "SWE",
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     {
       "id": 8485402,
@@ -5946,7 +5960,7 @@
       "name": "Ben Kindel",
       "team": "PIT",
       "nationality": "CAN",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8485493,
@@ -143347,6 +143361,1298 @@
       "gameWinner": true,
       "overtime": false,
       "scorerTeam": "SJS"
+    },
+    {
+      "id": 7385,
+      "gameId": 2025021178,
+      "date": "2026-03-31",
+      "homeTeam": "BOS",
+      "awayTeam": "DAL",
+      "period": 1,
+      "time": "09:58",
+      "situation": "1551",
+      "scorerId": 8482177,
+      "assist1Id": 8480035,
+      "assist2Id": 8477956,
+      "homeScore": 1,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "BOS"
+    },
+    {
+      "id": 7386,
+      "gameId": 2025021178,
+      "date": "2026-03-31",
+      "homeTeam": "BOS",
+      "awayTeam": "DAL",
+      "period": 1,
+      "time": "18:51",
+      "situation": "1551",
+      "scorerId": 8478042,
+      "assist1Id": 8477956,
+      "assist2Id": 8478401,
+      "homeScore": 2,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "BOS"
+    },
+    {
+      "id": 7387,
+      "gameId": 2025021178,
+      "date": "2026-03-31",
+      "homeTeam": "BOS",
+      "awayTeam": "DAL",
+      "period": 2,
+      "time": "04:49",
+      "situation": "1551",
+      "scorerId": 8473994,
+      "assist1Id": 8482740,
+      "assist2Id": 8478420,
+      "homeScore": 2,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "DAL"
+    },
+    {
+      "id": 7388,
+      "gameId": 2025021178,
+      "date": "2026-03-31",
+      "homeTeam": "BOS",
+      "awayTeam": "DAL",
+      "period": 2,
+      "time": "16:53",
+      "situation": "1551",
+      "scorerId": 8475168,
+      "assist1Id": 8480027,
+      "assist2Id": null,
+      "homeScore": 2,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "DAL"
+    },
+    {
+      "id": 7389,
+      "gameId": 2025021178,
+      "date": "2026-03-31",
+      "homeTeam": "BOS",
+      "awayTeam": "DAL",
+      "period": 3,
+      "time": "00:13",
+      "situation": "1451",
+      "scorerId": 8477496,
+      "assist1Id": 8477956,
+      "assist2Id": 8481219,
+      "homeScore": 3,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "BOS"
+    },
+    {
+      "id": 7390,
+      "gameId": 2025021178,
+      "date": "2026-03-31",
+      "homeTeam": "BOS",
+      "awayTeam": "DAL",
+      "period": 3,
+      "time": "05:51",
+      "situation": "1551",
+      "scorerId": 8480035,
+      "assist1Id": 8477496,
+      "assist2Id": 8479987,
+      "homeScore": 4,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "BOS"
+    },
+    {
+      "id": 7391,
+      "gameId": 2025021178,
+      "date": "2026-03-31",
+      "homeTeam": "BOS",
+      "awayTeam": "DAL",
+      "period": 3,
+      "time": "16:23",
+      "situation": "0651",
+      "scorerId": 8478042,
+      "assist1Id": null,
+      "assist2Id": null,
+      "homeScore": 5,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "BOS"
+    },
+    {
+      "id": 7392,
+      "gameId": 2025021178,
+      "date": "2026-03-31",
+      "homeTeam": "BOS",
+      "awayTeam": "DAL",
+      "period": 3,
+      "time": "19:02",
+      "situation": "0641",
+      "scorerId": 8482740,
+      "assist1Id": 8480027,
+      "assist2Id": 8480036,
+      "homeScore": 5,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "DAL"
+    },
+    {
+      "id": 7393,
+      "gameId": 2025021178,
+      "date": "2026-03-31",
+      "homeTeam": "BOS",
+      "awayTeam": "DAL",
+      "period": 3,
+      "time": "19:47",
+      "situation": "0651",
+      "scorerId": 8478042,
+      "assist1Id": 8479325,
+      "assist2Id": null,
+      "homeScore": 6,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "BOS"
+    },
+    {
+      "id": 7394,
+      "gameId": 2025021179,
+      "date": "2026-03-31",
+      "homeTeam": "BUF",
+      "awayTeam": "NYI",
+      "period": 1,
+      "time": "14:19",
+      "situation": "1451",
+      "scorerId": 8482097,
+      "assist1Id": 8480064,
+      "assist2Id": null,
+      "homeScore": 1,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "BUF"
+    },
+    {
+      "id": 7395,
+      "gameId": 2025021179,
+      "date": "2026-03-31",
+      "homeTeam": "BUF",
+      "awayTeam": "NYI",
+      "period": 2,
+      "time": "17:57",
+      "situation": "1541",
+      "scorerId": 8484221,
+      "assist1Id": 8475170,
+      "assist2Id": 8477500,
+      "homeScore": 1,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "NYI"
+    },
+    {
+      "id": 7396,
+      "gameId": 2025021179,
+      "date": "2026-03-31",
+      "homeTeam": "BUF",
+      "awayTeam": "NYI",
+      "period": 3,
+      "time": "02:40",
+      "situation": "1451",
+      "scorerId": 8479420,
+      "assist1Id": 8480064,
+      "assist2Id": 8482097,
+      "homeScore": 2,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "BUF"
+    },
+    {
+      "id": 7397,
+      "gameId": 2025021179,
+      "date": "2026-03-31",
+      "homeTeam": "BUF",
+      "awayTeam": "NYI",
+      "period": 3,
+      "time": "13:39",
+      "situation": "1551",
+      "scorerId": 8475314,
+      "assist1Id": 8477500,
+      "assist2Id": 8485366,
+      "homeScore": 2,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "NYI"
+    },
+    {
+      "id": 7398,
+      "gameId": 2025021179,
+      "date": "2026-03-31",
+      "homeTeam": "BUF",
+      "awayTeam": "NYI",
+      "period": 3,
+      "time": "16:59",
+      "situation": "1551",
+      "scorerId": 8481522,
+      "assist1Id": 8477949,
+      "assist2Id": 8479420,
+      "homeScore": 3,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "BUF"
+    },
+    {
+      "id": 7399,
+      "gameId": 2025021179,
+      "date": "2026-03-31",
+      "homeTeam": "BUF",
+      "awayTeam": "NYI",
+      "period": 3,
+      "time": "18:17",
+      "situation": "0651",
+      "scorerId": 8481524,
+      "assist1Id": 8480807,
+      "assist2Id": null,
+      "homeScore": 4,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "BUF"
+    },
+    {
+      "id": 7400,
+      "gameId": 2025021179,
+      "date": "2026-03-31",
+      "homeTeam": "BUF",
+      "awayTeam": "NYI",
+      "period": 3,
+      "time": "19:59",
+      "situation": "0651",
+      "scorerId": 8475170,
+      "assist1Id": 8478445,
+      "assist2Id": 8477500,
+      "homeScore": 4,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "NYI"
+    },
+    {
+      "id": 7401,
+      "gameId": 2025021180,
+      "date": "2026-03-31",
+      "homeTeam": "TBL",
+      "awayTeam": "MTL",
+      "period": 1,
+      "time": "12:25",
+      "situation": "1531",
+      "scorerId": 8483515,
+      "assist1Id": 8484984,
+      "assist2Id": 8481540,
+      "homeScore": 0,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "MTL"
+    },
+    {
+      "id": 7402,
+      "gameId": 2025021180,
+      "date": "2026-03-31",
+      "homeTeam": "TBL",
+      "awayTeam": "MTL",
+      "period": 1,
+      "time": "13:41",
+      "situation": "1551",
+      "scorerId": 8477404,
+      "assist1Id": 8476878,
+      "assist2Id": 8474151,
+      "homeScore": 1,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "TBL"
+    },
+    {
+      "id": 7403,
+      "gameId": 2025021180,
+      "date": "2026-03-31",
+      "homeTeam": "TBL",
+      "awayTeam": "MTL",
+      "period": 2,
+      "time": "12:49",
+      "situation": "1551",
+      "scorerId": 8481540,
+      "assist1Id": 8483515,
+      "assist2Id": 8476875,
+      "homeScore": 1,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "MTL"
+    },
+    {
+      "id": 7404,
+      "gameId": 2025021180,
+      "date": "2026-03-31",
+      "homeTeam": "TBL",
+      "awayTeam": "MTL",
+      "period": 3,
+      "time": "17:54",
+      "situation": "1460",
+      "scorerId": 8476875,
+      "assist1Id": null,
+      "assist2Id": null,
+      "homeScore": 1,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "MTL"
+    },
+    {
+      "id": 7405,
+      "gameId": 2025021180,
+      "date": "2026-03-31",
+      "homeTeam": "TBL",
+      "awayTeam": "MTL",
+      "period": 3,
+      "time": "18:54",
+      "situation": "1560",
+      "scorerId": 8480018,
+      "assist1Id": null,
+      "assist2Id": null,
+      "homeScore": 1,
+      "awayScore": 4,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "MTL"
+    },
+    {
+      "id": 7406,
+      "gameId": 2025021181,
+      "date": "2026-03-31",
+      "homeTeam": "FLA",
+      "awayTeam": "OTT",
+      "period": 1,
+      "time": "00:08",
+      "situation": "1551",
+      "scorerId": 8479393,
+      "assist1Id": 8477495,
+      "assist2Id": 8477931,
+      "homeScore": 1,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "FLA"
+    },
+    {
+      "id": 7407,
+      "gameId": 2025021181,
+      "date": "2026-03-31",
+      "homeTeam": "FLA",
+      "awayTeam": "OTT",
+      "period": 1,
+      "time": "01:06",
+      "situation": "1451",
+      "scorerId": 8482713,
+      "assist1Id": 8477495,
+      "assist2Id": 8479314,
+      "homeScore": 2,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "FLA"
+    },
+    {
+      "id": 7408,
+      "gameId": 2025021181,
+      "date": "2026-03-31",
+      "homeTeam": "FLA",
+      "awayTeam": "OTT",
+      "period": 1,
+      "time": "09:09",
+      "situation": "1451",
+      "scorerId": 8477409,
+      "assist1Id": 8479314,
+      "assist2Id": 8477495,
+      "homeScore": 3,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "FLA"
+    },
+    {
+      "id": 7409,
+      "gameId": 2025021181,
+      "date": "2026-03-31",
+      "homeTeam": "FLA",
+      "awayTeam": "OTT",
+      "period": 1,
+      "time": "14:02",
+      "situation": "1551",
+      "scorerId": 8478421,
+      "assist1Id": 8480185,
+      "assist2Id": 8482131,
+      "homeScore": 4,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "FLA"
+    },
+    {
+      "id": 7410,
+      "gameId": 2025021181,
+      "date": "2026-03-31",
+      "homeTeam": "FLA",
+      "awayTeam": "OTT",
+      "period": 1,
+      "time": "14:36",
+      "situation": "1551",
+      "scorerId": 8477409,
+      "assist1Id": 8477935,
+      "assist2Id": 8479314,
+      "homeScore": 5,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "FLA"
+    },
+    {
+      "id": 7411,
+      "gameId": 2025021181,
+      "date": "2026-03-31",
+      "homeTeam": "FLA",
+      "awayTeam": "OTT",
+      "period": 2,
+      "time": "01:40",
+      "situation": "1551",
+      "scorerId": 8480208,
+      "assist1Id": null,
+      "assist2Id": null,
+      "homeScore": 5,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "OTT"
+    },
+    {
+      "id": 7412,
+      "gameId": 2025021181,
+      "date": "2026-03-31",
+      "homeTeam": "FLA",
+      "awayTeam": "OTT",
+      "period": 2,
+      "time": "12:41",
+      "situation": "1551",
+      "scorerId": 8479314,
+      "assist1Id": 8477935,
+      "assist2Id": 8477409,
+      "homeScore": 6,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "FLA"
+    },
+    {
+      "id": 7413,
+      "gameId": 2025021181,
+      "date": "2026-03-31",
+      "homeTeam": "FLA",
+      "awayTeam": "OTT",
+      "period": 2,
+      "time": "15:14",
+      "situation": "1551",
+      "scorerId": 8481606,
+      "assist1Id": 8482116,
+      "assist2Id": 8478020,
+      "homeScore": 6,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "OTT"
+    },
+    {
+      "id": 7414,
+      "gameId": 2025021181,
+      "date": "2026-03-31",
+      "homeTeam": "FLA",
+      "awayTeam": "OTT",
+      "period": 3,
+      "time": "04:29",
+      "situation": "1551",
+      "scorerId": 8478020,
+      "assist1Id": 8482092,
+      "assist2Id": 8481575,
+      "homeScore": 6,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "OTT"
+    },
+    {
+      "id": 7415,
+      "gameId": 2025021182,
+      "date": "2026-03-31",
+      "homeTeam": "NYR",
+      "awayTeam": "NJD",
+      "period": 1,
+      "time": "08:14",
+      "situation": "1551",
+      "scorerId": 8477839,
+      "assist1Id": 8481789,
+      "assist2Id": 8478840,
+      "homeScore": 1,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "NYR"
+    },
+    {
+      "id": 7416,
+      "gameId": 2025021182,
+      "date": "2026-03-31",
+      "homeTeam": "NYR",
+      "awayTeam": "NJD",
+      "period": 1,
+      "time": "13:39",
+      "situation": "1451",
+      "scorerId": 8476468,
+      "assist1Id": 8482109,
+      "assist2Id": 8479323,
+      "homeScore": 2,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "NYR"
+    },
+    {
+      "id": 7417,
+      "gameId": 2025021182,
+      "date": "2026-03-31",
+      "homeTeam": "NYR",
+      "awayTeam": "NJD",
+      "period": 2,
+      "time": "00:51",
+      "situation": "1541",
+      "scorerId": 8477015,
+      "assist1Id": 8480002,
+      "assist2Id": 8482684,
+      "homeScore": 2,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "NJD"
+    },
+    {
+      "id": 7418,
+      "gameId": 2025021182,
+      "date": "2026-03-31",
+      "homeTeam": "NYR",
+      "awayTeam": "NJD",
+      "period": 2,
+      "time": "11:12",
+      "situation": "1551",
+      "scorerId": 8482877,
+      "assist1Id": 8482073,
+      "assist2Id": null,
+      "homeScore": 3,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "NYR"
+    },
+    {
+      "id": 7419,
+      "gameId": 2025021182,
+      "date": "2026-03-31",
+      "homeTeam": "NYR",
+      "awayTeam": "NJD",
+      "period": 3,
+      "time": "03:49",
+      "situation": "1551",
+      "scorerId": 8476459,
+      "assist1Id": 8484210,
+      "assist2Id": 8479323,
+      "homeScore": 4,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "NYR"
+    },
+    {
+      "id": 7420,
+      "gameId": 2025021183,
+      "date": "2026-03-31",
+      "homeTeam": "PIT",
+      "awayTeam": "DET",
+      "period": 1,
+      "time": "04:10",
+      "situation": "1551",
+      "scorerId": 8476483,
+      "assist1Id": 8471675,
+      "assist2Id": 8482475,
+      "homeScore": 1,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "PIT"
+    },
+    {
+      "id": 7421,
+      "gameId": 2025021183,
+      "date": "2026-03-31",
+      "homeTeam": "PIT",
+      "awayTeam": "DET",
+      "period": 1,
+      "time": "08:34",
+      "situation": "1551",
+      "scorerId": 8477511,
+      "assist1Id": 8471215,
+      "assist2Id": 8480980,
+      "homeScore": 2,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "PIT"
+    },
+    {
+      "id": 7422,
+      "gameId": 2025021183,
+      "date": "2026-03-31",
+      "homeTeam": "PIT",
+      "awayTeam": "DET",
+      "period": 1,
+      "time": "18:02",
+      "situation": "1551",
+      "scorerId": 8482475,
+      "assist1Id": 8471724,
+      "assist2Id": null,
+      "homeScore": 3,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "PIT"
+    },
+    {
+      "id": 7423,
+      "gameId": 2025021183,
+      "date": "2026-03-31",
+      "homeTeam": "PIT",
+      "awayTeam": "DET",
+      "period": 2,
+      "time": "03:17",
+      "situation": "1541",
+      "scorerId": 8477946,
+      "assist1Id": 8474141,
+      "assist2Id": null,
+      "homeScore": 3,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "DET"
+    },
+    {
+      "id": 7424,
+      "gameId": 2025021183,
+      "date": "2026-03-31",
+      "homeTeam": "PIT",
+      "awayTeam": "DET",
+      "period": 2,
+      "time": "12:23",
+      "situation": "1551",
+      "scorerId": 8479638,
+      "assist1Id": 8477365,
+      "assist2Id": null,
+      "homeScore": 4,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "PIT"
+    },
+    {
+      "id": 7425,
+      "gameId": 2025021183,
+      "date": "2026-03-31",
+      "homeTeam": "PIT",
+      "awayTeam": "DET",
+      "period": 3,
+      "time": "12:09",
+      "situation": "1551",
+      "scorerId": 8478569,
+      "assist1Id": 8478854,
+      "assist2Id": 8481725,
+      "homeScore": 5,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "PIT"
+    },
+    {
+      "id": 7426,
+      "gameId": 2025021184,
+      "date": "2026-03-31",
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "period": 1,
+      "time": "14:59",
+      "situation": "1551",
+      "scorerId": 8476880,
+      "assist1Id": 8479400,
+      "assist2Id": 8480873,
+      "homeScore": 1,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "WSH"
+    },
+    {
+      "id": 7427,
+      "gameId": 2025021184,
+      "date": "2026-03-31",
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "period": 1,
+      "time": "18:35",
+      "situation": "1551",
+      "scorerId": 8471214,
+      "assist1Id": 8478911,
+      "assist2Id": 8481580,
+      "homeScore": 2,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "WSH"
+    },
+    {
+      "id": 7428,
+      "gameId": 2025021184,
+      "date": "2026-03-31",
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "period": 2,
+      "time": "00:39",
+      "situation": "1441",
+      "scorerId": 8477948,
+      "assist1Id": 8478439,
+      "assist2Id": 8477989,
+      "homeScore": 2,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "PHI"
+    },
+    {
+      "id": 7429,
+      "gameId": 2025021184,
+      "date": "2026-03-31",
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "period": 2,
+      "time": "04:36",
+      "situation": "1551",
+      "scorerId": 8479336,
+      "assist1Id": 8481533,
+      "assist2Id": null,
+      "homeScore": 2,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "PHI"
+    },
+    {
+      "id": 7430,
+      "gameId": 2025021184,
+      "date": "2026-03-31",
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "period": 2,
+      "time": "06:58",
+      "situation": "1451",
+      "scorerId": 8479345,
+      "assist1Id": 8484186,
+      "assist2Id": 8479400,
+      "homeScore": 3,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "WSH"
+    },
+    {
+      "id": 7431,
+      "gameId": 2025021184,
+      "date": "2026-03-31",
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "period": 2,
+      "time": "17:37",
+      "situation": "1451",
+      "scorerId": 8484186,
+      "assist1Id": 8479400,
+      "assist2Id": 8479345,
+      "homeScore": 4,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "WSH"
+    },
+    {
+      "id": 7432,
+      "gameId": 2025021184,
+      "date": "2026-03-31",
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "period": 3,
+      "time": "00:33",
+      "situation": "1551",
+      "scorerId": 8477989,
+      "assist1Id": 8478439,
+      "assist2Id": 8477948,
+      "homeScore": 4,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "PHI"
+    },
+    {
+      "id": 7433,
+      "gameId": 2025021184,
+      "date": "2026-03-31",
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "period": 3,
+      "time": "03:47",
+      "situation": "1551",
+      "scorerId": 8471214,
+      "assist1Id": 8481580,
+      "assist2Id": 8479345,
+      "homeScore": 5,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "WSH"
+    },
+    {
+      "id": 7434,
+      "gameId": 2025021184,
+      "date": "2026-03-31",
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "period": 3,
+      "time": "07:52",
+      "situation": "1551",
+      "scorerId": 8484142,
+      "assist1Id": 8477499,
+      "assist2Id": 8480220,
+      "homeScore": 5,
+      "awayScore": 4,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "PHI"
+    },
+    {
+      "id": 7435,
+      "gameId": 2025021184,
+      "date": "2026-03-31",
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "period": 3,
+      "time": "18:56",
+      "situation": "0651",
+      "scorerId": 8476880,
+      "assist1Id": 8479400,
+      "assist2Id": 8478911,
+      "homeScore": 6,
+      "awayScore": 4,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "WSH"
+    },
+    {
+      "id": 7436,
+      "gameId": 2025021185,
+      "date": "2026-03-31",
+      "homeTeam": "CBJ",
+      "awayTeam": "CAR",
+      "period": 1,
+      "time": "13:29",
+      "situation": "1541",
+      "scorerId": 8476906,
+      "assist1Id": 8477940,
+      "assist2Id": 8480830,
+      "homeScore": 0,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 7437,
+      "gameId": 2025021185,
+      "date": "2026-03-31",
+      "homeTeam": "CBJ",
+      "awayTeam": "CAR",
+      "period": 1,
+      "time": "16:12",
+      "situation": "1541",
+      "scorerId": 8482702,
+      "assist1Id": 8476873,
+      "assist2Id": null,
+      "homeScore": 0,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 7438,
+      "gameId": 2025021185,
+      "date": "2026-03-31",
+      "homeTeam": "CBJ",
+      "awayTeam": "CAR",
+      "period": 2,
+      "time": "15:14",
+      "situation": "1551",
+      "scorerId": 8480893,
+      "assist1Id": 8478460,
+      "assist2Id": 8478975,
+      "homeScore": 1,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CBJ"
+    },
+    {
+      "id": 7439,
+      "gameId": 2025021185,
+      "date": "2026-03-31",
+      "homeTeam": "CBJ",
+      "awayTeam": "CAR",
+      "period": 3,
+      "time": "02:07",
+      "situation": "1551",
+      "scorerId": 8484166,
+      "assist1Id": 8478975,
+      "assist2Id": 8480893,
+      "homeScore": 2,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CBJ"
+    },
+    {
+      "id": 7440,
+      "gameId": 2025021185,
+      "date": "2026-03-31",
+      "homeTeam": "CBJ",
+      "awayTeam": "CAR",
+      "period": 3,
+      "time": "12:42",
+      "situation": "1551",
+      "scorerId": 8477940,
+      "assist1Id": 8478970,
+      "assist2Id": 8476958,
+      "homeScore": 2,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 7441,
+      "gameId": 2025021185,
+      "date": "2026-03-31",
+      "homeTeam": "CBJ",
+      "awayTeam": "CAR",
+      "period": 3,
+      "time": "13:55",
+      "situation": "1541",
+      "scorerId": 8480830,
+      "assist1Id": 8477940,
+      "assist2Id": 8478427,
+      "homeScore": 2,
+      "awayScore": 4,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 7442,
+      "gameId": 2025021185,
+      "date": "2026-03-31",
+      "homeTeam": "CBJ",
+      "awayTeam": "CAR",
+      "period": 3,
+      "time": "19:13",
+      "situation": "1460",
+      "scorerId": 8476921,
+      "assist1Id": null,
+      "assist2Id": null,
+      "homeScore": 2,
+      "awayScore": 5,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 7443,
+      "gameId": 2025021186,
+      "date": "2026-03-31",
+      "homeTeam": "CHI",
+      "awayTeam": "WPG",
+      "period": 1,
+      "time": "04:42",
+      "situation": "1551",
+      "scorerId": 8485391,
+      "assist1Id": 8481624,
+      "assist2Id": 8481806,
+      "homeScore": 1,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CHI"
+    },
+    {
+      "id": 7444,
+      "gameId": 2025021186,
+      "date": "2026-03-31",
+      "homeTeam": "CHI",
+      "awayTeam": "WPG",
+      "period": 2,
+      "time": "01:06",
+      "situation": "1551",
+      "scorerId": 8477504,
+      "assist1Id": 8478398,
+      "assist2Id": 8476460,
+      "homeScore": 1,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "WPG"
+    },
+    {
+      "id": 7445,
+      "gameId": 2025021186,
+      "date": "2026-03-31",
+      "homeTeam": "CHI",
+      "awayTeam": "WPG",
+      "period": 2,
+      "time": "11:19",
+      "situation": "1541",
+      "scorerId": 8482149,
+      "assist1Id": 8480113,
+      "assist2Id": 8476460,
+      "homeScore": 1,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "WPG"
+    },
+    {
+      "id": 7446,
+      "gameId": 2025021186,
+      "date": "2026-03-31",
+      "homeTeam": "CHI",
+      "awayTeam": "WPG",
+      "period": 2,
+      "time": "11:57",
+      "situation": "1551",
+      "scorerId": 8482765,
+      "assist1Id": 8483526,
+      "assist2Id": 8480145,
+      "homeScore": 1,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "WPG"
+    },
+    {
+      "id": 7447,
+      "gameId": 2025021186,
+      "date": "2026-03-31",
+      "homeTeam": "CHI",
+      "awayTeam": "WPG",
+      "period": 2,
+      "time": "13:26",
+      "situation": "1551",
+      "scorerId": 8477479,
+      "assist1Id": null,
+      "assist2Id": null,
+      "homeScore": 2,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CHI"
+    },
+    {
+      "id": 7448,
+      "gameId": 2025021186,
+      "date": "2026-03-31",
+      "homeTeam": "CHI",
+      "awayTeam": "WPG",
+      "period": 3,
+      "time": "09:46",
+      "situation": "1551",
+      "scorerId": 8477479,
+      "assist1Id": 8481624,
+      "assist2Id": 8481806,
+      "homeScore": 3,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CHI"
+    },
+    {
+      "id": 7449,
+      "gameId": 2025021186,
+      "date": "2026-03-31",
+      "homeTeam": "CHI",
+      "awayTeam": "WPG",
+      "period": 4,
+      "time": "00:33",
+      "situation": "1331",
+      "scorerId": 8478398,
+      "assist1Id": 8476460,
+      "assist2Id": 8477504,
+      "homeScore": 3,
+      "awayScore": 4,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": true,
+      "scorerTeam": "WPG"
+    },
+    {
+      "id": 7450,
+      "gameId": 2025021187,
+      "date": "2026-03-31",
+      "homeTeam": "EDM",
+      "awayTeam": "SEA",
+      "period": 1,
+      "time": "05:28",
+      "situation": "1551",
+      "scorerId": 8479368,
+      "assist1Id": 8478013,
+      "assist2Id": null,
+      "homeScore": 1,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "EDM"
+    },
+    {
+      "id": 7451,
+      "gameId": 2025021187,
+      "date": "2026-03-31",
+      "homeTeam": "EDM",
+      "awayTeam": "SEA",
+      "period": 1,
+      "time": "12:43",
+      "situation": "1551",
+      "scorerId": 8477953,
+      "assist1Id": null,
+      "assist2Id": null,
+      "homeScore": 2,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "EDM"
+    },
+    {
+      "id": 7452,
+      "gameId": 2025021187,
+      "date": "2026-03-31",
+      "homeTeam": "EDM",
+      "awayTeam": "SEA",
+      "period": 3,
+      "time": "17:34",
+      "situation": "0651",
+      "scorerId": 8478402,
+      "assist1Id": 8476454,
+      "assist2Id": 8475786,
+      "homeScore": 3,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "EDM"
     }
   ]
 }
