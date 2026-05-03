@@ -1,8 +1,8 @@
 {
   "meta": {
-    "exportedAt": "2026-05-02T12:18:30.111Z",
-    "gameCount": 1356,
-    "goalCount": 8329,
+    "exportedAt": "2026-05-03T12:17:17.428Z",
+    "gameCount": 1357,
+    "goalCount": 8332,
     "playerCount": 883
   },
   "weights": {
@@ -115,7 +115,7 @@
       "name": "Jordan Staal",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 79
+      "gamesPlayed": 80
     },
     {
       "id": 8473604,
@@ -654,7 +654,7 @@
       "name": "Taylor Hall",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 84
+      "gamesPlayed": 85
     },
     {
       "id": 8475794,
@@ -717,7 +717,7 @@
       "name": "Frederik Andersen",
       "team": "CAR",
       "nationality": "DNK",
-      "gamesPlayed": 78
+      "gamesPlayed": 79
     },
     {
       "id": 8475906,
@@ -766,7 +766,7 @@
       "name": "Nick Seeler",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 86
+      "gamesPlayed": 87
     },
     {
       "id": 8476374,
@@ -822,7 +822,7 @@
       "name": "Mike Reilly",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 42
+      "gamesPlayed": 43
     },
     {
       "id": 8476429,
@@ -927,7 +927,7 @@
       "name": "Sean Couturier",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 84
+      "gamesPlayed": 85
     },
     {
       "id": 8476462,
@@ -1025,7 +1025,7 @@
       "name": "Luke Glendening",
       "team": "NJD",
       "nationality": "USA",
-      "gamesPlayed": 76
+      "gamesPlayed": 77
     },
     {
       "id": 8476826,
@@ -1088,7 +1088,7 @@
       "name": "Mark Jankowski",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8476874,
@@ -1207,7 +1207,7 @@
       "name": "Shayne Gostisbehere",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 59
+      "gamesPlayed": 60
     },
     {
       "id": 8476907,
@@ -1228,7 +1228,7 @@
       "name": "Jordan Martinook",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 81
+      "gamesPlayed": 82
     },
     {
       "id": 8476923,
@@ -1270,7 +1270,7 @@
       "name": "Jaccob Slavin",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 43
+      "gamesPlayed": 44
     },
     {
       "id": 8476967,
@@ -1529,7 +1529,7 @@
       "name": "William Carrier",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 74
+      "gamesPlayed": 75
     },
     {
       "id": 8477479,
@@ -1592,7 +1592,7 @@
       "name": "Rasmus Ristolainen",
       "team": "PHI",
       "nationality": "FIN",
-      "gamesPlayed": 50
+      "gamesPlayed": 51
     },
     {
       "id": 8477500,
@@ -1704,7 +1704,7 @@
       "name": "Garnet Hathaway",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8477919,
@@ -1767,7 +1767,7 @@
       "name": "Nikolaj Ehlers",
       "team": "CAR",
       "nationality": "DNK",
-      "gamesPlayed": 85
+      "gamesPlayed": 86
     },
     {
       "id": 8477942,
@@ -1795,7 +1795,7 @@
       "name": "Travis Sanheim",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 87
+      "gamesPlayed": 88
     },
     {
       "id": 8477949,
@@ -1914,7 +1914,7 @@
       "name": "Christian Dvorak",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 86
+      "gamesPlayed": 87
     },
     {
       "id": 8477993,
@@ -2180,7 +2180,7 @@
       "name": "Sebastian Aho",
       "team": "CAR",
       "nationality": "FIN",
-      "gamesPlayed": 83
+      "gamesPlayed": 84
     },
     {
       "id": 8478434,
@@ -2201,7 +2201,7 @@
       "name": "Travis Konecny",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 83
+      "gamesPlayed": 84
     },
     {
       "id": 8478440,
@@ -2257,7 +2257,7 @@
       "name": "Noah Juulsen",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 56
+      "gamesPlayed": 57
     },
     {
       "id": 8478458,
@@ -2530,7 +2530,7 @@
       "name": "Jalen Chatfield",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 76
+      "gamesPlayed": 77
     },
     {
       "id": 8478971,
@@ -3314,7 +3314,7 @@
       "name": "Noah Cates",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 88
+      "gamesPlayed": 89
     },
     {
       "id": 8480245,
@@ -3363,7 +3363,7 @@
       "name": "Sean Walker",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 85
+      "gamesPlayed": 86
     },
     {
       "id": 8480355,
@@ -3419,7 +3419,7 @@
       "name": "Eric Robinson",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8480796,
@@ -3496,7 +3496,7 @@
       "name": "K'Andre Miller",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 76
+      "gamesPlayed": 77
     },
     {
       "id": 8480825,
@@ -3517,7 +3517,7 @@
       "name": "Andrei Svechnikov",
       "team": "CAR",
       "nationality": "RUS",
-      "gamesPlayed": 83
+      "gamesPlayed": 84
     },
     {
       "id": 8480831,
@@ -3762,7 +3762,7 @@
       "name": "Samuel Ersson",
       "team": "PHI",
       "nationality": "SWE",
-      "gamesPlayed": 81
+      "gamesPlayed": 82
     },
     {
       "id": 8481043,
@@ -3951,7 +3951,7 @@
       "name": "Trevor Zegras",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 87
+      "gamesPlayed": 88
     },
     {
       "id": 8481535,
@@ -3979,7 +3979,7 @@
       "name": "Cam York",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 80
+      "gamesPlayed": 81
     },
     {
       "id": 8481551,
@@ -4392,7 +4392,7 @@
       "name": "Seth Jarvis",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 75
+      "gamesPlayed": 76
     },
     {
       "id": 8482094,
@@ -4532,7 +4532,7 @@
       "name": "Jamie Drysdale",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 84
+      "gamesPlayed": 85
     },
     {
       "id": 8482145,
@@ -4588,7 +4588,7 @@
       "name": "Tyson Foerster",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 35
+      "gamesPlayed": 36
     },
     {
       "id": 8482165,
@@ -4854,7 +4854,7 @@
       "name": "Logan Stankoven",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 85
+      "gamesPlayed": 86
     },
     {
       "id": 8482703,
@@ -5022,7 +5022,7 @@
       "name": "Jackson Blake",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 85
+      "gamesPlayed": 86
     },
     {
       "id": 8482858,
@@ -5428,7 +5428,7 @@
       "name": "Brandon Bussi",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 79
+      "gamesPlayed": 80
     },
     {
       "id": 8483553,
@@ -5547,7 +5547,7 @@
       "name": "Alex Bump",
       "team": "PHI",
       "nationality": "USA",
-      "gamesPlayed": 19
+      "gamesPlayed": 20
     },
     {
       "id": 8483733,
@@ -5631,7 +5631,7 @@
       "name": "Denver Barkey",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 49
+      "gamesPlayed": 50
     },
     {
       "id": 8484144,
@@ -5883,7 +5883,7 @@
       "name": "Matvei Michkov",
       "team": "PHI",
       "nationality": "RUS",
-      "gamesPlayed": 86
+      "gamesPlayed": 87
     },
     {
       "id": 8484388,
@@ -6149,7 +6149,7 @@
       "name": "Porter Martone",
       "team": "PHI",
       "nationality": "CAN",
-      "gamesPlayed": 15
+      "gamesPlayed": 16
     },
     {
       "id": 8485414,
@@ -164452,6 +164452,63 @@
       "gameWinner": false,
       "overtime": false,
       "scorerTeam": "VGK"
+    },
+    {
+      "id": 8484,
+      "gameId": 2025030221,
+      "date": "2026-05-02",
+      "homeTeam": "CAR",
+      "awayTeam": "PHI",
+      "period": 1,
+      "time": "01:31",
+      "situation": "1551",
+      "scorerId": 8482702,
+      "assist1Id": 8476422,
+      "assist2Id": 8482809,
+      "homeScore": 1,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 8485,
+      "gameId": 2025030221,
+      "date": "2026-05-02",
+      "homeTeam": "CAR",
+      "awayTeam": "PHI",
+      "period": 1,
+      "time": "07:30",
+      "situation": "1551",
+      "scorerId": 8482809,
+      "assist1Id": 8475791,
+      "assist2Id": 8476422,
+      "homeScore": 2,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 8486,
+      "gameId": 2025030221,
+      "date": "2026-05-02",
+      "homeTeam": "CAR",
+      "awayTeam": "PHI",
+      "period": 2,
+      "time": "16:16",
+      "situation": "1551",
+      "scorerId": 8482702,
+      "assist1Id": 8482093,
+      "assist2Id": 8480830,
+      "homeScore": 3,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
     }
   ]
 }
