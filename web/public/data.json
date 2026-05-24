@@ -1,8 +1,8 @@
 {
   "meta": {
-    "exportedAt": "2026-05-23T12:21:16.564Z",
-    "gameCount": 1382,
-    "goalCount": 8494,
+    "exportedAt": "2026-05-24T12:23:56.249Z",
+    "gameCount": 1383,
+    "goalCount": 8499,
     "playerCount": 884
   },
   "weights": {
@@ -115,7 +115,7 @@
       "name": "Jordan Staal",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 84
+      "gamesPlayed": 85
     },
     {
       "id": 8473604,
@@ -654,7 +654,7 @@
       "name": "Taylor Hall",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 89
+      "gamesPlayed": 90
     },
     {
       "id": 8475794,
@@ -717,7 +717,7 @@
       "name": "Frederik Andersen",
       "team": "CAR",
       "nationality": "DNK",
-      "gamesPlayed": 83
+      "gamesPlayed": 84
     },
     {
       "id": 8475906,
@@ -983,7 +983,7 @@
       "name": "Phillip Danault",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 90
+      "gamesPlayed": 91
     },
     {
       "id": 8476480,
@@ -1088,7 +1088,7 @@
       "name": "Mark Jankowski",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 77
+      "gamesPlayed": 78
     },
     {
       "id": 8476874,
@@ -1102,7 +1102,7 @@
       "name": "Mike Matheson",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 93
+      "gamesPlayed": 94
     },
     {
       "id": 8476878,
@@ -1207,7 +1207,7 @@
       "name": "Shayne Gostisbehere",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 64
+      "gamesPlayed": 65
     },
     {
       "id": 8476907,
@@ -1228,7 +1228,7 @@
       "name": "Jordan Martinook",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 86
+      "gamesPlayed": 87
     },
     {
       "id": 8476923,
@@ -1270,7 +1270,7 @@
       "name": "Jaccob Slavin",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 48
+      "gamesPlayed": 49
     },
     {
       "id": 8476967,
@@ -1284,7 +1284,7 @@
       "name": "Josh Anderson",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 87
+      "gamesPlayed": 88
     },
     {
       "id": 8476994,
@@ -1529,7 +1529,7 @@
       "name": "William Carrier",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 79
+      "gamesPlayed": 80
     },
     {
       "id": 8477479,
@@ -1767,7 +1767,7 @@
       "name": "Nikolaj Ehlers",
       "team": "CAR",
       "nationality": "DNK",
-      "gamesPlayed": 90
+      "gamesPlayed": 91
     },
     {
       "id": 8477942,
@@ -2047,7 +2047,7 @@
       "name": "Jake Evans",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 83
+      "gamesPlayed": 84
     },
     {
       "id": 8478136,
@@ -2180,7 +2180,7 @@
       "name": "Sebastian Aho",
       "team": "CAR",
       "nationality": "FIN",
-      "gamesPlayed": 88
+      "gamesPlayed": 89
     },
     {
       "id": 8478434,
@@ -2432,7 +2432,7 @@
       "name": "Alexandre Carrier",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 88
+      "gamesPlayed": 89
     },
     {
       "id": 8478854,
@@ -2530,7 +2530,7 @@
       "name": "Jalen Chatfield",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 81
+      "gamesPlayed": 82
     },
     {
       "id": 8478971,
@@ -3139,7 +3139,7 @@
       "name": "Nick Suzuki",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 97
+      "gamesPlayed": 98
     },
     {
       "id": 8480023,
@@ -3237,7 +3237,7 @@
       "name": "Alexandre Texier",
       "team": "MTL",
       "nationality": "FRA",
-      "gamesPlayed": 66
+      "gamesPlayed": 67
     },
     {
       "id": 8480075,
@@ -3370,7 +3370,7 @@
       "name": "Sean Walker",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 90
+      "gamesPlayed": 91
     },
     {
       "id": 8480355,
@@ -3426,7 +3426,7 @@
       "name": "Eric Robinson",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 76
+      "gamesPlayed": 77
     },
     {
       "id": 8480796,
@@ -3503,7 +3503,7 @@
       "name": "K'Andre Miller",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 81
+      "gamesPlayed": 82
     },
     {
       "id": 8480825,
@@ -3524,7 +3524,7 @@
       "name": "Andrei Svechnikov",
       "team": "CAR",
       "nationality": "RUS",
-      "gamesPlayed": 88
+      "gamesPlayed": 89
     },
     {
       "id": 8480831,
@@ -3608,7 +3608,7 @@
       "name": "Noah Dobson",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 89
+      "gamesPlayed": 90
     },
     {
       "id": 8480870,
@@ -3916,7 +3916,7 @@
       "name": "Kirby Dach",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 52
+      "gamesPlayed": 53
     },
     {
       "id": 8481524,
@@ -3972,7 +3972,7 @@
       "name": "Cole Caufield",
       "team": "MTL",
       "nationality": "USA",
-      "gamesPlayed": 96
+      "gamesPlayed": 97
     },
     {
       "id": 8481542,
@@ -4098,7 +4098,7 @@
       "name": "Jayden Struble",
       "team": "MTL",
       "nationality": "USA",
-      "gamesPlayed": 67
+      "gamesPlayed": 68
     },
     {
       "id": 8481596,
@@ -4182,7 +4182,7 @@
       "name": "Alex Newhook",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 57
+      "gamesPlayed": 58
     },
     {
       "id": 8481624,
@@ -4364,7 +4364,7 @@
       "name": "Kaiden Guhle",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8482088,
@@ -4399,7 +4399,7 @@
       "name": "Seth Jarvis",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 80
+      "gamesPlayed": 81
     },
     {
       "id": 8482094,
@@ -4427,7 +4427,7 @@
       "name": "Alexander Nikishin",
       "team": "CAR",
       "nationality": "RUS",
-      "gamesPlayed": 88
+      "gamesPlayed": 89
     },
     {
       "id": 8482103,
@@ -4861,7 +4861,7 @@
       "name": "Logan Stankoven",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 90
+      "gamesPlayed": 91
     },
     {
       "id": 8482703,
@@ -4931,7 +4931,7 @@
       "name": "Zachary Bolduc",
       "team": "MTL",
       "nationality": "CAN",
-      "gamesPlayed": 93
+      "gamesPlayed": 94
     },
     {
       "id": 8482740,
@@ -5001,7 +5001,7 @@
       "name": "Oliver Kapanen",
       "team": "MTL",
       "nationality": "SWE",
-      "gamesPlayed": 88
+      "gamesPlayed": 89
     },
     {
       "id": 8482785,
@@ -5029,7 +5029,7 @@
       "name": "Jackson Blake",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 90
+      "gamesPlayed": 91
     },
     {
       "id": 8482858,
@@ -5218,7 +5218,7 @@
       "name": "Lane Hutson",
       "team": "MTL",
       "nationality": "USA",
-      "gamesPlayed": 97
+      "gamesPlayed": 98
     },
     {
       "id": 8483464,
@@ -5393,7 +5393,7 @@
       "name": "Juraj Slafkovský",
       "team": "MTL",
       "nationality": "SVK",
-      "gamesPlayed": 97
+      "gamesPlayed": 98
     },
     {
       "id": 8483516,
@@ -5435,7 +5435,7 @@
       "name": "Brandon Bussi",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 84
+      "gamesPlayed": 85
     },
     {
       "id": 8483553,
@@ -6093,7 +6093,7 @@
       "name": "Ivan Demidov",
       "team": "MTL",
       "nationality": "RUS",
-      "gamesPlayed": 97
+      "gamesPlayed": 98
     },
     {
       "id": 8484994,
@@ -167594,6 +167594,101 @@
       "gameWinner": false,
       "overtime": false,
       "scorerTeam": "VGK"
+    },
+    {
+      "id": 8649,
+      "gameId": 2025030312,
+      "date": "2026-05-23",
+      "homeTeam": "CAR",
+      "awayTeam": "MTL",
+      "period": 1,
+      "time": "02:33",
+      "situation": "1551",
+      "scorerId": 8480762,
+      "assist1Id": 8477478,
+      "assist2Id": 8476873,
+      "homeScore": 1,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 8650,
+      "gameId": 2025030312,
+      "date": "2026-05-23",
+      "homeTeam": "CAR",
+      "awayTeam": "MTL",
+      "period": 1,
+      "time": "11:11",
+      "situation": "1551",
+      "scorerId": 8476981,
+      "assist1Id": 8476479,
+      "assist2Id": 8482087,
+      "homeScore": 1,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "MTL"
+    },
+    {
+      "id": 8651,
+      "gameId": 2025030312,
+      "date": "2026-05-23",
+      "homeTeam": "CAR",
+      "awayTeam": "MTL",
+      "period": 2,
+      "time": "17:03",
+      "situation": "1551",
+      "scorerId": 8477940,
+      "assist1Id": 8476958,
+      "assist2Id": 8478970,
+      "homeScore": 2,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 8652,
+      "gameId": 2025030312,
+      "date": "2026-05-23",
+      "homeTeam": "CAR",
+      "awayTeam": "MTL",
+      "period": 3,
+      "time": "12:51",
+      "situation": "1551",
+      "scorerId": 8476981,
+      "assist1Id": 8478851,
+      "assist2Id": 8476479,
+      "homeScore": 2,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "MTL"
+    },
+    {
+      "id": 8653,
+      "gameId": 2025030312,
+      "date": "2026-05-23",
+      "homeTeam": "CAR",
+      "awayTeam": "MTL",
+      "period": 4,
+      "time": "03:29",
+      "situation": "1551",
+      "scorerId": 8477940,
+      "assist1Id": 8476873,
+      "assist2Id": 8478970,
+      "homeScore": 3,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": true,
+      "scorerTeam": "CAR"
     }
   ]
 }
