@@ -1,8 +1,8 @@
 {
   "meta": {
-    "exportedAt": "2026-05-24T12:23:56.249Z",
-    "gameCount": 1383,
-    "goalCount": 8499,
+    "exportedAt": "2026-05-25T13:08:50.795Z",
+    "gameCount": 1384,
+    "goalCount": 8507,
     "playerCount": 884
   },
   "weights": {
@@ -24,7 +24,7 @@
       "name": "Brent Burns",
       "team": "COL",
       "nationality": "CAN",
-      "gamesPlayed": 93
+      "gamesPlayed": 94
     },
     {
       "id": 8470621,
@@ -374,7 +374,7 @@
       "name": "Nazem Kadri",
       "team": "CGY",
       "nationality": "CAN",
-      "gamesPlayed": 88
+      "gamesPlayed": 89
     },
     {
       "id": 8475181,
@@ -395,7 +395,7 @@
       "name": "Brayden McNabb",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 76
+      "gamesPlayed": 77
     },
     {
       "id": 8475191,
@@ -486,7 +486,7 @@
       "name": "Nic Dowd",
       "team": "WSH",
       "nationality": "USA",
-      "gamesPlayed": 89
+      "gamesPlayed": 90
     },
     {
       "id": 8475455,
@@ -584,7 +584,7 @@
       "name": "Brock Nelson",
       "team": "COL",
       "nationality": "USA",
-      "gamesPlayed": 92
+      "gamesPlayed": 93
     },
     {
       "id": 8475755,
@@ -682,7 +682,7 @@
       "name": "Scott Wedgewood",
       "team": "COL",
       "nationality": "CAN",
-      "gamesPlayed": 89
+      "gamesPlayed": 90
     },
     {
       "id": 8475810,
@@ -731,7 +731,7 @@
       "name": "Mark Stone",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 69
+      "gamesPlayed": 70
     },
     {
       "id": 8476278,
@@ -752,7 +752,7 @@
       "name": "Josh Manson",
       "team": "COL",
       "nationality": "USA",
-      "gamesPlayed": 86
+      "gamesPlayed": 87
     },
     {
       "id": 8476331,
@@ -864,7 +864,7 @@
       "name": "William Karlsson",
       "team": "VGK",
       "nationality": "SWE",
-      "gamesPlayed": 22
+      "gamesPlayed": 23
     },
     {
       "id": 8476453,
@@ -885,7 +885,7 @@
       "name": "Gabriel Landeskog",
       "team": "COL",
       "nationality": "SWE",
-      "gamesPlayed": 71
+      "gamesPlayed": 72
     },
     {
       "id": 8476456,
@@ -1130,7 +1130,7 @@
       "name": "Tomas Hertl",
       "team": "VGK",
       "nationality": "CZE",
-      "gamesPlayed": 96
+      "gamesPlayed": 97
     },
     {
       "id": 8476882,
@@ -1242,7 +1242,7 @@
       "name": "Colton Sissons",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 80
+      "gamesPlayed": 81
     },
     {
       "id": 8476927,
@@ -1277,7 +1277,7 @@
       "name": "Brett Kulak",
       "team": "PIT",
       "nationality": "CAN",
-      "gamesPlayed": 94
+      "gamesPlayed": 95
     },
     {
       "id": 8476981,
@@ -1473,7 +1473,7 @@
       "name": "Shea Theodore",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 84
+      "gamesPlayed": 85
     },
     {
       "id": 8477450,
@@ -1522,7 +1522,7 @@
       "name": "Artturi Lehkonen",
       "team": "COL",
       "nationality": "FIN",
-      "gamesPlayed": 79
+      "gamesPlayed": 80
     },
     {
       "id": 8477478,
@@ -1550,7 +1550,7 @@
       "name": "Nathan MacKinnon",
       "team": "COL",
       "nationality": "CAN",
-      "gamesPlayed": 91
+      "gamesPlayed": 92
     },
     {
       "id": 8477494,
@@ -1606,7 +1606,7 @@
       "name": "Valeri Nichushkin",
       "team": "COL",
       "nationality": "RUS",
-      "gamesPlayed": 83
+      "gamesPlayed": 84
     },
     {
       "id": 8477503,
@@ -1858,7 +1858,7 @@
       "name": "Ivan Barbashev",
       "team": "VGK",
       "nationality": "RUS",
-      "gamesPlayed": 96
+      "gamesPlayed": 97
     },
     {
       "id": 8477967,
@@ -1977,7 +1977,7 @@
       "name": "Devon Toews",
       "team": "COL",
       "nationality": "CAN",
-      "gamesPlayed": 79
+      "gamesPlayed": 80
     },
     {
       "id": 8478042,
@@ -2082,14 +2082,14 @@
       "name": "Noah Hanifin",
       "team": "VGK",
       "nationality": "USA",
-      "gamesPlayed": 85
+      "gamesPlayed": 86
     },
     {
       "id": 8478397,
       "name": "Rasmus Andersson",
       "team": "CGY",
       "nationality": "SWE",
-      "gamesPlayed": 95
+      "gamesPlayed": 96
     },
     {
       "id": 8478398,
@@ -2124,7 +2124,7 @@
       "name": "Jack Eichel",
       "team": "VGK",
       "nationality": "USA",
-      "gamesPlayed": 88
+      "gamesPlayed": 89
     },
     {
       "id": 8478407,
@@ -2187,7 +2187,7 @@
       "name": "Keegan Kolesar",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 96
+      "gamesPlayed": 97
     },
     {
       "id": 8478438,
@@ -2278,7 +2278,7 @@
       "name": "Nicolas Roy",
       "team": "TOR",
       "nationality": "CAN",
-      "gamesPlayed": 85
+      "gamesPlayed": 86
     },
     {
       "id": 8478463,
@@ -2327,7 +2327,7 @@
       "name": "Mitch Marner",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 95
+      "gamesPlayed": 96
     },
     {
       "id": 8478493,
@@ -2348,7 +2348,7 @@
       "name": "Adin Hill",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 58
+      "gamesPlayed": 59
     },
     {
       "id": 8478500,
@@ -2684,7 +2684,7 @@
       "name": "Brett Howden",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 72
+      "gamesPlayed": 73
     },
     {
       "id": 8479359,
@@ -2873,7 +2873,7 @@
       "name": "Ross Colton",
       "team": "COL",
       "nationality": "USA",
-      "gamesPlayed": 82
+      "gamesPlayed": 83
     },
     {
       "id": 8479533,
@@ -2929,7 +2929,7 @@
       "name": "Dylan Coghlan",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 9
+      "gamesPlayed": 10
     },
     {
       "id": 8479644,
@@ -3181,7 +3181,7 @@
       "name": "Martin Necas",
       "team": "COL",
       "nationality": "CZE",
-      "gamesPlayed": 89
+      "gamesPlayed": 90
     },
     {
       "id": 8480043,
@@ -3230,7 +3230,7 @@
       "name": "Cale Makar",
       "team": "COL",
       "nationality": "CAN",
-      "gamesPlayed": 84
+      "gamesPlayed": 85
     },
     {
       "id": 8480074,
@@ -3398,7 +3398,7 @@
       "name": "Parker Kelly",
       "team": "COL",
       "nationality": "CAN",
-      "gamesPlayed": 93
+      "gamesPlayed": 94
     },
     {
       "id": 8480459,
@@ -3545,7 +3545,7 @@
       "name": "Jack Drury",
       "team": "COL",
       "nationality": "USA",
-      "gamesPlayed": 93
+      "gamesPlayed": 94
     },
     {
       "id": 8480839,
@@ -3853,7 +3853,7 @@
       "name": "Logan O'Connor",
       "team": "COL",
       "nationality": "USA",
-      "gamesPlayed": 24
+      "gamesPlayed": 25
     },
     {
       "id": 8481219,
@@ -3937,7 +3937,7 @@
       "name": "Kaedan Korczak",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 88
+      "gamesPlayed": 89
     },
     {
       "id": 8481528,
@@ -4140,7 +4140,7 @@
       "name": "Pavel Dorofeyev",
       "team": "VGK",
       "nationality": "RUS",
-      "gamesPlayed": 96
+      "gamesPlayed": 97
     },
     {
       "id": 8481605,
@@ -4308,7 +4308,7 @@
       "name": "Cole Smith",
       "team": "NSH",
       "nationality": "USA",
-      "gamesPlayed": 77
+      "gamesPlayed": 78
     },
     {
       "id": 8482070,
@@ -5841,7 +5841,7 @@
       "name": "Sam Malinski",
       "team": "COL",
       "nationality": "USA",
-      "gamesPlayed": 91
+      "gamesPlayed": 92
     },
     {
       "id": 8484262,
@@ -167689,6 +167689,158 @@
       "gameWinner": true,
       "overtime": true,
       "scorerTeam": "CAR"
+    },
+    {
+      "id": 8654,
+      "gameId": 2025030323,
+      "date": "2026-05-24",
+      "homeTeam": "VGK",
+      "awayTeam": "COL",
+      "period": 1,
+      "time": "03:21",
+      "situation": "1551",
+      "scorerId": 8476455,
+      "assist1Id": 8478038,
+      "assist2Id": 8477492,
+      "homeScore": 0,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "COL"
+    },
+    {
+      "id": 8655,
+      "gameId": 2025030323,
+      "date": "2026-05-24",
+      "homeTeam": "VGK",
+      "awayTeam": "COL",
+      "period": 1,
+      "time": "07:03",
+      "situation": "1551",
+      "scorerId": 8475172,
+      "assist1Id": 8480039,
+      "assist2Id": 8476312,
+      "homeScore": 0,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "COL"
+    },
+    {
+      "id": 8656,
+      "gameId": 2025030323,
+      "date": "2026-05-24",
+      "homeTeam": "VGK",
+      "awayTeam": "COL",
+      "period": 1,
+      "time": "13:15",
+      "situation": "1451",
+      "scorerId": 8480835,
+      "assist1Id": 8480448,
+      "assist2Id": 8478038,
+      "homeScore": 0,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "COL"
+    },
+    {
+      "id": 8657,
+      "gameId": 2025030323,
+      "date": "2026-05-24",
+      "homeTeam": "VGK",
+      "awayTeam": "COL",
+      "period": 2,
+      "time": "00:19",
+      "situation": "1451",
+      "scorerId": 8475913,
+      "assist1Id": 8478483,
+      "assist2Id": 8476881,
+      "homeScore": 1,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "VGK"
+    },
+    {
+      "id": 8658,
+      "gameId": 2025030323,
+      "date": "2026-05-24",
+      "homeTeam": "VGK",
+      "awayTeam": "COL",
+      "period": 2,
+      "time": "04:05",
+      "situation": "1551",
+      "scorerId": 8476448,
+      "assist1Id": 8478483,
+      "assist2Id": null,
+      "homeScore": 2,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "VGK"
+    },
+    {
+      "id": 8659,
+      "gameId": 2025030323,
+      "date": "2026-05-24",
+      "homeTeam": "VGK",
+      "awayTeam": "COL",
+      "period": 2,
+      "time": "12:46",
+      "situation": "1551",
+      "scorerId": 8478434,
+      "assist1Id": 8479639,
+      "assist2Id": 8481527,
+      "homeScore": 3,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "VGK"
+    },
+    {
+      "id": 8660,
+      "gameId": 2025030323,
+      "date": "2026-05-24",
+      "homeTeam": "VGK",
+      "awayTeam": "COL",
+      "period": 3,
+      "time": "08:21",
+      "situation": "1551",
+      "scorerId": 8476881,
+      "assist1Id": 8475913,
+      "assist2Id": 8481527,
+      "homeScore": 4,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": false,
+      "scorerTeam": "VGK"
+    },
+    {
+      "id": 8661,
+      "gameId": 2025030323,
+      "date": "2026-05-24",
+      "homeTeam": "VGK",
+      "awayTeam": "COL",
+      "period": 3,
+      "time": "19:01",
+      "situation": "0651",
+      "scorerId": 8479353,
+      "assist1Id": 8476448,
+      "assist2Id": 8477447,
+      "homeScore": 5,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "VGK"
     }
   ]
 }
