@@ -1,8 +1,8 @@
 {
   "meta": {
-    "exportedAt": "2026-06-06T12:27:23.534Z",
-    "gameCount": 1390,
-    "goalCount": 8542,
+    "exportedAt": "2026-06-07T12:33:32.838Z",
+    "gameCount": 1391,
+    "goalCount": 8551,
     "playerCount": 885
   },
   "weights": {
@@ -115,7 +115,7 @@
       "name": "Jordan Staal",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 90
+      "gamesPlayed": 91
     },
     {
       "id": 8473604,
@@ -395,7 +395,7 @@
       "name": "Brayden McNabb",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 80
+      "gamesPlayed": 81
     },
     {
       "id": 8475191,
@@ -486,7 +486,7 @@
       "name": "Nic Dowd",
       "team": "WSH",
       "nationality": "USA",
-      "gamesPlayed": 93
+      "gamesPlayed": 94
     },
     {
       "id": 8475455,
@@ -654,7 +654,7 @@
       "name": "Taylor Hall",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 95
+      "gamesPlayed": 96
     },
     {
       "id": 8475794,
@@ -717,7 +717,7 @@
       "name": "Frederik Andersen",
       "team": "CAR",
       "nationality": "DNK",
-      "gamesPlayed": 89
+      "gamesPlayed": 90
     },
     {
       "id": 8475906,
@@ -731,7 +731,7 @@
       "name": "Mark Stone",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 73
+      "gamesPlayed": 74
     },
     {
       "id": 8476278,
@@ -864,7 +864,7 @@
       "name": "William Karlsson",
       "team": "VGK",
       "nationality": "SWE",
-      "gamesPlayed": 26
+      "gamesPlayed": 27
     },
     {
       "id": 8476453,
@@ -1088,7 +1088,7 @@
       "name": "Mark Jankowski",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 83
+      "gamesPlayed": 84
     },
     {
       "id": 8476874,
@@ -1130,7 +1130,7 @@
       "name": "Tomas Hertl",
       "team": "VGK",
       "nationality": "CZE",
-      "gamesPlayed": 100
+      "gamesPlayed": 101
     },
     {
       "id": 8476882,
@@ -1207,7 +1207,7 @@
       "name": "Shayne Gostisbehere",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 70
+      "gamesPlayed": 71
     },
     {
       "id": 8476907,
@@ -1228,7 +1228,7 @@
       "name": "Jordan Martinook",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 92
+      "gamesPlayed": 93
     },
     {
       "id": 8476923,
@@ -1242,7 +1242,7 @@
       "name": "Colton Sissons",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 84
+      "gamesPlayed": 85
     },
     {
       "id": 8476927,
@@ -1270,7 +1270,7 @@
       "name": "Jaccob Slavin",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 54
+      "gamesPlayed": 55
     },
     {
       "id": 8476967,
@@ -1473,7 +1473,7 @@
       "name": "Shea Theodore",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 88
+      "gamesPlayed": 89
     },
     {
       "id": 8477450,
@@ -1529,7 +1529,7 @@
       "name": "William Carrier",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 85
+      "gamesPlayed": 86
     },
     {
       "id": 8477479,
@@ -1767,7 +1767,7 @@
       "name": "Nikolaj Ehlers",
       "team": "CAR",
       "nationality": "DNK",
-      "gamesPlayed": 96
+      "gamesPlayed": 97
     },
     {
       "id": 8477942,
@@ -1858,7 +1858,7 @@
       "name": "Ivan Barbashev",
       "team": "VGK",
       "nationality": "RUS",
-      "gamesPlayed": 100
+      "gamesPlayed": 101
     },
     {
       "id": 8477967,
@@ -2082,14 +2082,14 @@
       "name": "Noah Hanifin",
       "team": "VGK",
       "nationality": "USA",
-      "gamesPlayed": 89
+      "gamesPlayed": 90
     },
     {
       "id": 8478397,
       "name": "Rasmus Andersson",
       "team": "CGY",
       "nationality": "SWE",
-      "gamesPlayed": 99
+      "gamesPlayed": 100
     },
     {
       "id": 8478398,
@@ -2124,7 +2124,7 @@
       "name": "Jack Eichel",
       "team": "VGK",
       "nationality": "USA",
-      "gamesPlayed": 92
+      "gamesPlayed": 93
     },
     {
       "id": 8478407,
@@ -2180,14 +2180,14 @@
       "name": "Sebastian Aho",
       "team": "CAR",
       "nationality": "FIN",
-      "gamesPlayed": 94
+      "gamesPlayed": 95
     },
     {
       "id": 8478434,
       "name": "Keegan Kolesar",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 100
+      "gamesPlayed": 101
     },
     {
       "id": 8478438,
@@ -2292,7 +2292,7 @@
       "name": "Jeremy Lauzon",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 76
+      "gamesPlayed": 77
     },
     {
       "id": 8478469,
@@ -2327,7 +2327,7 @@
       "name": "Mitch Marner",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 99
+      "gamesPlayed": 100
     },
     {
       "id": 8478493,
@@ -2348,7 +2348,7 @@
       "name": "Adin Hill",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 62
+      "gamesPlayed": 63
     },
     {
       "id": 8478500,
@@ -2530,7 +2530,7 @@
       "name": "Jalen Chatfield",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 87
+      "gamesPlayed": 88
     },
     {
       "id": 8478971,
@@ -2684,7 +2684,7 @@
       "name": "Brett Howden",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 76
+      "gamesPlayed": 77
     },
     {
       "id": 8479359,
@@ -2929,7 +2929,7 @@
       "name": "Dylan Coghlan",
       "team": "VGK",
       "nationality": "CAN",
-      "gamesPlayed": 13
+      "gamesPlayed": 14
     },
     {
       "id": 8479644,
@@ -3370,7 +3370,7 @@
       "name": "Sean Walker",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 96
+      "gamesPlayed": 97
     },
     {
       "id": 8480355,
@@ -3426,7 +3426,7 @@
       "name": "Eric Robinson",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 82
+      "gamesPlayed": 83
     },
     {
       "id": 8480796,
@@ -3503,7 +3503,7 @@
       "name": "K'Andre Miller",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 87
+      "gamesPlayed": 88
     },
     {
       "id": 8480825,
@@ -3524,7 +3524,7 @@
       "name": "Andrei Svechnikov",
       "team": "CAR",
       "nationality": "RUS",
-      "gamesPlayed": 94
+      "gamesPlayed": 95
     },
     {
       "id": 8480831,
@@ -4140,7 +4140,7 @@
       "name": "Pavel Dorofeyev",
       "team": "VGK",
       "nationality": "RUS",
-      "gamesPlayed": 100
+      "gamesPlayed": 101
     },
     {
       "id": 8481605,
@@ -4308,7 +4308,7 @@
       "name": "Cole Smith",
       "team": "NSH",
       "nationality": "USA",
-      "gamesPlayed": 81
+      "gamesPlayed": 82
     },
     {
       "id": 8482070,
@@ -4399,7 +4399,7 @@
       "name": "Seth Jarvis",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 86
+      "gamesPlayed": 87
     },
     {
       "id": 8482094,
@@ -4427,7 +4427,7 @@
       "name": "Alexander Nikishin",
       "team": "CAR",
       "nationality": "RUS",
-      "gamesPlayed": 94
+      "gamesPlayed": 95
     },
     {
       "id": 8482103,
@@ -4868,7 +4868,7 @@
       "name": "Logan Stankoven",
       "team": "CAR",
       "nationality": "CAN",
-      "gamesPlayed": 96
+      "gamesPlayed": 97
     },
     {
       "id": 8482703,
@@ -5036,7 +5036,7 @@
       "name": "Jackson Blake",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 96
+      "gamesPlayed": 97
     },
     {
       "id": 8482858,
@@ -5442,7 +5442,7 @@
       "name": "Brandon Bussi",
       "team": "CAR",
       "nationality": "USA",
-      "gamesPlayed": 90
+      "gamesPlayed": 91
     },
     {
       "id": 8483553,
@@ -168513,6 +168513,177 @@
       "gameWinner": true,
       "overtime": true,
       "scorerTeam": "CAR"
+    },
+    {
+      "id": 8697,
+      "gameId": 2025030413,
+      "date": "2026-06-06",
+      "homeTeam": "VGK",
+      "awayTeam": "CAR",
+      "period": 2,
+      "time": "10:26",
+      "situation": "1451",
+      "scorerId": 8476881,
+      "assist1Id": 8478403,
+      "assist2Id": 8478483,
+      "homeScore": 1,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "VGK"
+    },
+    {
+      "id": 8698,
+      "gameId": 2025030413,
+      "date": "2026-06-06",
+      "homeTeam": "VGK",
+      "awayTeam": "CAR",
+      "period": 2,
+      "time": "10:42",
+      "situation": "1551",
+      "scorerId": 8478483,
+      "assist1Id": 8476448,
+      "assist2Id": 8477447,
+      "homeScore": 2,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "VGK"
+    },
+    {
+      "id": 8699,
+      "gameId": 2025030413,
+      "date": "2026-06-06",
+      "homeTeam": "VGK",
+      "awayTeam": "CAR",
+      "period": 2,
+      "time": "14:32",
+      "situation": "1551",
+      "scorerId": 8478483,
+      "assist1Id": 8475188,
+      "assist2Id": null,
+      "homeScore": 3,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "VGK"
+    },
+    {
+      "id": 8700,
+      "gameId": 2025030413,
+      "date": "2026-06-06",
+      "homeTeam": "VGK",
+      "awayTeam": "CAR",
+      "period": 2,
+      "time": "16:52",
+      "situation": "1551",
+      "scorerId": 8478483,
+      "assist1Id": 8476881,
+      "assist2Id": null,
+      "homeScore": 4,
+      "awayScore": 0,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "VGK"
+    },
+    {
+      "id": 8701,
+      "gameId": 2025030413,
+      "date": "2026-06-06",
+      "homeTeam": "VGK",
+      "awayTeam": "CAR",
+      "period": 3,
+      "time": "07:03",
+      "situation": "1551",
+      "scorerId": 8476921,
+      "assist1Id": 8482093,
+      "assist2Id": 8482702,
+      "homeScore": 4,
+      "awayScore": 1,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 8702,
+      "gameId": 2025030413,
+      "date": "2026-06-06",
+      "homeTeam": "VGK",
+      "awayTeam": "CAR",
+      "period": 3,
+      "time": "07:29",
+      "situation": "1551",
+      "scorerId": 8475791,
+      "assist1Id": 8478427,
+      "assist2Id": 8482809,
+      "homeScore": 4,
+      "awayScore": 2,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 8703,
+      "gameId": 2025030413,
+      "date": "2026-06-06",
+      "homeTeam": "VGK",
+      "awayTeam": "CAR",
+      "period": 3,
+      "time": "07:42",
+      "situation": "1551",
+      "scorerId": 8473533,
+      "assist1Id": 8476958,
+      "assist2Id": 8480762,
+      "homeScore": 4,
+      "awayScore": 3,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 8704,
+      "gameId": 2025030413,
+      "date": "2026-06-06",
+      "homeTeam": "VGK",
+      "awayTeam": "CAR",
+      "period": 3,
+      "time": "18:18",
+      "situation": "0641",
+      "scorerId": 8480830,
+      "assist1Id": 8473533,
+      "assist2Id": 8478427,
+      "homeScore": 4,
+      "awayScore": 4,
+      "emptyNet": false,
+      "gameWinner": false,
+      "overtime": false,
+      "scorerTeam": "CAR"
+    },
+    {
+      "id": 8705,
+      "gameId": 2025030413,
+      "date": "2026-06-06",
+      "homeTeam": "VGK",
+      "awayTeam": "CAR",
+      "period": 5,
+      "time": "05:38",
+      "situation": "1551",
+      "scorerId": 8477447,
+      "assist1Id": 8475188,
+      "assist2Id": 8479353,
+      "homeScore": 5,
+      "awayScore": 4,
+      "emptyNet": false,
+      "gameWinner": true,
+      "overtime": true,
+      "scorerTeam": "VGK"
     }
   ]
 }
